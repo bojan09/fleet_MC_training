@@ -104,7 +104,77 @@
         "Fuel tanks / DEF tank Diesel fuel and diesel exhaust fluid are separate; never confuse fill points.",
         "Unit number / VIN Fleet unit ID is an internal identifier; VIN is the manufacturer-assigned vehicle identifier."
       ],
-      "page": 2
+      "page": 2,
+      "visualNotes": [
+        {
+          "title": "Cab / sleeper",
+          "text": "Driver controls and rest compartment; identify the exact vehicle and configuration before dispatching service.",
+          "image": "assets/lessons/lesson-1-1.svg",
+          "alt": "Cab / sleeper: Driver controls; Rest compartment; Vehicle configuration. Simplified concept illustration.",
+          "concepts": [
+            "Driver controls",
+            "Rest compartment",
+            "Vehicle configuration"
+          ]
+        },
+        {
+          "title": "Steer axle",
+          "text": "Front axle provides steering; inspect tires, steering linkage, suspension, wheel ends and brakes.",
+          "image": "assets/lessons/lesson-1-2.svg",
+          "alt": "Steer axle: Front axle; Steering function; Wheel ends & brakes. Simplified concept illustration.",
+          "concepts": [
+            "Front axle",
+            "Steering function",
+            "Wheel ends & brakes"
+          ]
+        },
+        {
+          "title": "Drive axles",
+          "text": "Transmit power through differentials and axle shafts; look for leaks, abnormal noise and vibration.",
+          "image": "assets/lessons/lesson-1-3.svg",
+          "alt": "Drive axles: Driveshaft; Differential; Powered wheels. Simplified concept illustration.",
+          "concepts": [
+            "Driveshaft",
+            "Differential",
+            "Powered wheels"
+          ]
+        },
+        {
+          "title": "Fifth wheel",
+          "text": "Tractor coupling plate that locks around the trailer kingpin; coupling integrity is safety critical.",
+          "image": "assets/lessons/lesson-1-4.svg",
+          "alt": "Fifth wheel: Tractor coupling plate; Trailer kingpin; Engagement check. Simplified concept illustration.",
+          "concepts": [
+            "Tractor coupling plate",
+            "Trailer kingpin",
+            "Engagement check"
+          ]
+        },
+        {
+          "title": "Fuel tanks / DEF tank",
+          "text": "Diesel fuel and diesel exhaust fluid are separate; never confuse fill points.",
+          "image": "assets/lessons/lesson-1-5.svg",
+          "alt": "Fuel tanks / DEF tank: Diesel fuel; Separate DEF tank; Different fill points. Simplified concept illustration.",
+          "concepts": [
+            "Diesel fuel",
+            "Separate DEF tank",
+            "Different fill points"
+          ]
+        },
+        {
+          "title": "Unit number / VIN",
+          "text": "Fleet unit ID is an internal identifier; VIN is the manufacturer-assigned vehicle identifier.",
+          "image": "assets/lessons/lesson-1-6.svg",
+          "alt": "Unit number / VIN: Fleet unit ID; Manufacturer VIN; Match the exact vehicle. Simplified concept illustration.",
+          "concepts": [
+            "Fleet unit ID",
+            "Manufacturer VIN",
+            "Match the exact vehicle"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-2.png",
+      "referenceAlt": "Original illustration embedded on PDF page 2: Truck Anatomy. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-2",
@@ -118,7 +188,77 @@
         "Alternator / batteries Charge and supply electrical power; distinguish no-crank, slow-crank and charging faults.",
         "Transmission / driveshaft Carry power to drive axles; leaks, harsh shifting and vibration require shop evaluation."
       ],
-      "page": 3
+      "page": 3,
+      "visualNotes": [
+        {
+          "title": "Engine oil",
+          "text": "Lubricates and cools moving parts; verify level and leak reports against OEM procedures.",
+          "image": "assets/lessons/lesson-2-1.svg",
+          "alt": "Engine oil: Oil sump; Moving engine parts; Lubrication & cooling. Simplified concept illustration.",
+          "concepts": [
+            "Oil sump",
+            "Moving engine parts",
+            "Lubrication & cooling"
+          ]
+        },
+        {
+          "title": "Cooling system",
+          "text": "Radiator, coolant, water pump, thermostat, fan and hoses regulate temperature.",
+          "image": "assets/lessons/lesson-2-2.svg",
+          "alt": "Cooling system: Radiator & fan; Coolant circulation; Engine & hoses. Simplified concept illustration.",
+          "concepts": [
+            "Radiator & fan",
+            "Coolant circulation",
+            "Engine & hoses"
+          ]
+        },
+        {
+          "title": "Turbocharger",
+          "text": "Uses exhaust energy to boost intake air; unusual whine or power loss requires diagnosis.",
+          "image": "assets/lessons/lesson-2-3.svg",
+          "alt": "Turbocharger: Exhaust turbine; Common shaft; Intake compressor. Simplified concept illustration.",
+          "concepts": [
+            "Exhaust turbine",
+            "Common shaft",
+            "Intake compressor"
+          ]
+        },
+        {
+          "title": "Belts / tensioners",
+          "text": "Drive accessories; damaged belts can disable cooling or charging.",
+          "image": "assets/lessons/lesson-2-4.svg",
+          "alt": "Belts / tensioners: Accessory pulleys; Drive belt; Belt tensioner. Simplified concept illustration.",
+          "concepts": [
+            "Accessory pulleys",
+            "Drive belt",
+            "Belt tensioner"
+          ]
+        },
+        {
+          "title": "Alternator / batteries",
+          "text": "Charge and supply electrical power; distinguish no-crank, slow-crank and charging faults.",
+          "image": "assets/lessons/lesson-2-5.svg",
+          "alt": "Alternator / batteries: Alternator charges; Battery stores; Electrical consumers. Simplified concept illustration.",
+          "concepts": [
+            "Alternator charges",
+            "Battery stores",
+            "Electrical consumers"
+          ]
+        },
+        {
+          "title": "Transmission / driveshaft",
+          "text": "Carry power to drive axles; leaks, harsh shifting and vibration require shop evaluation.",
+          "image": "assets/lessons/lesson-2-6.svg",
+          "alt": "Transmission / driveshaft: Transmission; Driveshaft; Drive axle. Simplified concept illustration.",
+          "concepts": [
+            "Transmission",
+            "Driveshaft",
+            "Drive axle"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-3.png",
+      "referenceAlt": "Original illustration embedded on PDF page 3: Engine & Cooling. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-3",
@@ -132,7 +272,77 @@
         "Derate Engine control may limit performance after certain faults; document dashboard messages and symptoms.",
         "Never guess a repair A dashboard light alone does not prove which component has failed."
       ],
-      "page": 4
+      "page": 4,
+      "visualNotes": [
+        {
+          "title": "DPF",
+          "text": "Diesel particulate filter traps soot; regeneration management is vehicle-specific.",
+          "image": "assets/lessons/lesson-3-1.svg",
+          "alt": "DPF: Exhaust enters; Soot is trapped; Regeneration is OEM-specific. Simplified concept illustration.",
+          "concepts": [
+            "Exhaust enters",
+            "Soot is trapped",
+            "Regeneration is OEM-specific"
+          ]
+        },
+        {
+          "title": "DEF / SCR",
+          "text": "Diesel exhaust fluid supports selective catalytic reduction to control NOx emissions.",
+          "image": "assets/lessons/lesson-3-2.svg",
+          "alt": "DEF / SCR: DEF dosing; SCR catalyst; NOx reduction. Simplified concept illustration.",
+          "concepts": [
+            "DEF dosing",
+            "SCR catalyst",
+            "NOx reduction"
+          ]
+        },
+        {
+          "title": "EGR",
+          "text": "Exhaust gas recirculation reduces NOx formation; faults may affect power and emissions.",
+          "image": "assets/lessons/lesson-3-3.svg",
+          "alt": "EGR: Exhaust gas; Controlled recirculation; Intake mixture. Simplified concept illustration.",
+          "concepts": [
+            "Exhaust gas",
+            "Controlled recirculation",
+            "Intake mixture"
+          ]
+        },
+        {
+          "title": "ECM",
+          "text": "Electronic control module monitors and controls engine functions; technicians read fault codes.",
+          "image": "assets/lessons/lesson-3-4.svg",
+          "alt": "ECM: Sensor inputs; Control module; Commands & fault reports. Simplified concept illustration.",
+          "concepts": [
+            "Sensor inputs",
+            "Control module",
+            "Commands & fault reports"
+          ]
+        },
+        {
+          "title": "Derate",
+          "text": "Engine control may limit performance after certain faults; document dashboard messages and symptoms.",
+          "image": "assets/lessons/lesson-3-5.svg",
+          "alt": "Derate: Fault condition; Possible power limit; Record exact messages. Simplified concept illustration.",
+          "concepts": [
+            "Fault condition",
+            "Possible power limit",
+            "Record exact messages"
+          ]
+        },
+        {
+          "title": "Never guess a repair",
+          "text": "A dashboard light alone does not prove which component has failed.",
+          "image": "assets/lessons/lesson-3-6.svg",
+          "alt": "Never guess a repair: Warning or symptom; Qualified diagnosis; Confirmed repair scope. Simplified concept illustration.",
+          "concepts": [
+            "Warning or symptom",
+            "Qualified diagnosis",
+            "Confirmed repair scope"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-4.png",
+      "referenceAlt": "Original illustration embedded on PDF page 4: Emissions & Electrical. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-4",
@@ -147,7 +357,88 @@
         "ABS Helps control wheel lockup; warning lamps indicate a fault requiring inspection.",
         "Low-air warning Treat as urgent; driver should follow safe stopping and operating procedures."
       ],
-      "page": 5
+      "page": 5,
+      "visualNotes": [
+        {
+          "title": "Compressor / governor",
+          "text": "Build and regulate compressed-air supply; pressure specifications vary by vehicle.",
+          "image": "assets/lessons/lesson-4-1.svg",
+          "alt": "Compressor / governor: Compressor builds air; Governor regulates; Vehicle-specific limits. Simplified concept illustration.",
+          "concepts": [
+            "Compressor builds air",
+            "Governor regulates",
+            "Vehicle-specific limits"
+          ]
+        },
+        {
+          "title": "Air dryer / reservoirs",
+          "text": "Dryer removes moisture; reservoirs store compressed air for braking systems.",
+          "image": "assets/lessons/lesson-4-2.svg",
+          "alt": "Air dryer / reservoirs: Air supply; Dryer removes moisture; Reservoir stores air. Simplified concept illustration.",
+          "concepts": [
+            "Air supply",
+            "Dryer removes moisture",
+            "Reservoir stores air"
+          ]
+        },
+        {
+          "title": "Foot valve / relay valves",
+          "text": "Control delivery of air to service brake chambers.",
+          "image": "assets/lessons/lesson-4-3.svg",
+          "alt": "Foot valve / relay valves: Driver brake demand; Control & relay valves; Air to brake chambers. Simplified concept illustration.",
+          "concepts": [
+            "Driver brake demand",
+            "Control & relay valves",
+            "Air to brake chambers"
+          ]
+        },
+        {
+          "title": "Brake chambers",
+          "text": "Convert air pressure into mechanical force at foundation brakes.",
+          "image": "assets/lessons/lesson-4-4.svg",
+          "alt": "Brake chambers: Air pressure; Diaphragm & pushrod; Mechanical brake force. Simplified concept illustration.",
+          "concepts": [
+            "Air pressure",
+            "Diaphragm & pushrod",
+            "Mechanical brake force"
+          ]
+        },
+        {
+          "title": "Spring parking brakes",
+          "text": "Spring force applies parking/emergency braking when air is released; never service without training.",
+          "image": "assets/lessons/lesson-4-5.svg",
+          "alt": "Spring parking brakes: Spring stores energy; Air releases parking brake; Trained service only. Simplified concept illustration.",
+          "concepts": [
+            "Spring stores energy",
+            "Air releases parking brake",
+            "Trained service only"
+          ]
+        },
+        {
+          "title": "ABS",
+          "text": "Helps control wheel lockup; warning lamps indicate a fault requiring inspection.",
+          "image": "assets/lessons/lesson-4-6.svg",
+          "alt": "ABS: Wheel-speed sensors; ABS control; Wheel-lock management. Simplified concept illustration.",
+          "concepts": [
+            "Wheel-speed sensors",
+            "ABS control",
+            "Wheel-lock management"
+          ]
+        },
+        {
+          "title": "Low-air warning",
+          "text": "Treat as urgent; driver should follow safe stopping and operating procedures.",
+          "image": "assets/lessons/lesson-4-7.svg",
+          "alt": "Low-air warning: Low air report; Safe-stop guidance; Qualified brake service. Simplified concept illustration.",
+          "concepts": [
+            "Low air report",
+            "Safe-stop guidance",
+            "Qualified brake service"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-5.png",
+      "referenceAlt": "Original illustration embedded on PDF page 5: Air Brakes. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-5",
@@ -162,7 +453,88 @@
         "Differential Distributes torque to drive wheels; leaks and abnormal noises need inspection.",
         "Wheel end Hub, bearings, seals and lubrication; overheating or leaking seals warrant prompt attention."
       ],
-      "page": 6
+      "page": 6,
+      "visualNotes": [
+        {
+          "title": "Air suspension",
+          "text": "Air springs, leveling valve, shocks and linkages help manage ride height and load.",
+          "image": "assets/lessons/lesson-5-1.svg",
+          "alt": "Air suspension: Air springs; Height control; Shocks & linkages. Simplified concept illustration.",
+          "concepts": [
+            "Air springs",
+            "Height control",
+            "Shocks & linkages"
+          ]
+        },
+        {
+          "title": "Leaf springs",
+          "text": "Steel spring packs and hangers support load; cracks or displaced components are serious.",
+          "image": "assets/lessons/lesson-5-2.svg",
+          "alt": "Leaf springs: Spring pack; Hangers; Axle support. Simplified concept illustration.",
+          "concepts": [
+            "Spring pack",
+            "Hangers",
+            "Axle support"
+          ]
+        },
+        {
+          "title": "Steer / drive / trailer axle",
+          "text": "Distinguish by function, not merely by the number of wheels.",
+          "image": "assets/lessons/lesson-5-3.svg",
+          "alt": "Steer / drive / trailer axle: Steer: steering; Drive: powered; Trailer: supports trailer. Simplified concept illustration.",
+          "concepts": [
+            "Steer: steering",
+            "Drive: powered",
+            "Trailer: supports trailer"
+          ]
+        },
+        {
+          "title": "Tandem axles",
+          "text": "Two closely spaced axles that distribute vehicle weight.",
+          "image": "assets/lessons/lesson-5-4.svg",
+          "alt": "Tandem axles: Two adjacent axles; Weight distribution; Function varies. Simplified concept illustration.",
+          "concepts": [
+            "Two adjacent axles",
+            "Weight distribution",
+            "Function varies"
+          ]
+        },
+        {
+          "title": "Lift axle",
+          "text": "May raise when permitted and appropriate for vehicle/load configuration.",
+          "image": "assets/lessons/lesson-5-5.svg",
+          "alt": "Lift axle: Auxiliary axle; Raised or lowered; Load & rules determine use. Simplified concept illustration.",
+          "concepts": [
+            "Auxiliary axle",
+            "Raised or lowered",
+            "Load & rules determine use"
+          ]
+        },
+        {
+          "title": "Differential",
+          "text": "Distributes torque to drive wheels; leaks and abnormal noises need inspection.",
+          "image": "assets/lessons/lesson-5-6.svg",
+          "alt": "Differential: Input torque; Differential gears; Axle shafts. Simplified concept illustration.",
+          "concepts": [
+            "Input torque",
+            "Differential gears",
+            "Axle shafts"
+          ]
+        },
+        {
+          "title": "Wheel end",
+          "text": "Hub, bearings, seals and lubrication; overheating or leaking seals warrant prompt attention.",
+          "image": "assets/lessons/lesson-5-7.svg",
+          "alt": "Wheel end: Hub & bearings; Seal & lubricant; Heat or leak report. Simplified concept illustration.",
+          "concepts": [
+            "Hub & bearings",
+            "Seal & lubricant",
+            "Heat or leak report"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-6.png",
+      "referenceAlt": "Original illustration embedded on PDF page 6: Suspension & Axles. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-6",
@@ -176,7 +548,77 @@
         "Load rating Tire and wheel capacities must meet actual axle loading and applicable requirements.",
         "Dual tires Matched dimensions and proper inflation are important to avoid uneven load sharing."
       ],
-      "page": 7
+      "page": 7,
+      "visualNotes": [
+        {
+          "title": "Steer tires",
+          "text": "Usually rib-oriented tread on front steering axle; steering stability and correct sizing are critical.",
+          "image": "assets/lessons/lesson-6-1.svg",
+          "alt": "Steer tires: Front steering axle; Often rib-oriented; Application approval. Simplified concept illustration.",
+          "concepts": [
+            "Front steering axle",
+            "Often rib-oriented",
+            "Application approval"
+          ]
+        },
+        {
+          "title": "Drive tires",
+          "text": "Often lug or traction patterns on powered axles; application and season influence selection.",
+          "image": "assets/lessons/lesson-6-2.svg",
+          "alt": "Drive tires: Powered axles; Often traction tread; Duty & season. Simplified concept illustration.",
+          "concepts": [
+            "Powered axles",
+            "Often traction tread",
+            "Duty & season"
+          ]
+        },
+        {
+          "title": "Trailer tires",
+          "text": "Designed for trailer axles; check loading, inflation, tread and sidewall condition.",
+          "image": "assets/lessons/lesson-6-3.svg",
+          "alt": "Trailer tires: Trailer axles; Load & inflation; Tread & sidewall checks. Simplified concept illustration.",
+          "concepts": [
+            "Trailer axles",
+            "Load & inflation",
+            "Tread & sidewall checks"
+          ]
+        },
+        {
+          "title": "Pressure",
+          "text": "Use fleet/OEM and tire-load guidance, measured appropriately; do not guess by appearance.",
+          "image": "assets/lessons/lesson-6-4.svg",
+          "alt": "Pressure: Measure pressure; Use load guidance; Do not judge by appearance. Simplified concept illustration.",
+          "concepts": [
+            "Measure pressure",
+            "Use load guidance",
+            "Do not judge by appearance"
+          ]
+        },
+        {
+          "title": "Load rating",
+          "text": "Tire and wheel capacities must meet actual axle loading and applicable requirements.",
+          "image": "assets/lessons/lesson-6-5.svg",
+          "alt": "Load rating: Actual axle load; Tire capacity; Wheel capacity. Simplified concept illustration.",
+          "concepts": [
+            "Actual axle load",
+            "Tire capacity",
+            "Wheel capacity"
+          ]
+        },
+        {
+          "title": "Dual tires",
+          "text": "Matched dimensions and proper inflation are important to avoid uneven load sharing.",
+          "image": "assets/lessons/lesson-6-6.svg",
+          "alt": "Dual tires: Paired tires; Matched dimensions; Proper inflation. Simplified concept illustration.",
+          "concepts": [
+            "Paired tires",
+            "Matched dimensions",
+            "Proper inflation"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-7.png",
+      "referenceAlt": "Original illustration embedded on PDF page 7: Tires By Position. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-7",
@@ -191,7 +633,88 @@
         "Bulge / exposed cords Potential serious tire damage; arrange qualified inspection before use.",
         "Coordinator action Capture tire position, size, DOT tire date code, photos, tread depth and vendor findings."
       ],
-      "page": 8
+      "page": 8,
+      "visualNotes": [
+        {
+          "title": "Center wear",
+          "text": "Can indicate overinflation or operating conditions; inspect pressure history and tread.",
+          "image": "assets/lessons/lesson-7-1.svg",
+          "alt": "Center wear: Center tread wear; Pressure history; Qualified assessment. Simplified concept illustration.",
+          "concepts": [
+            "Center tread wear",
+            "Pressure history",
+            "Qualified assessment"
+          ]
+        },
+        {
+          "title": "Both shoulders",
+          "text": "Can indicate underinflation or overloading.",
+          "image": "assets/lessons/lesson-7-2.svg",
+          "alt": "Both shoulders: Both tread edges; Inflation & load clues; Not a final diagnosis. Simplified concept illustration.",
+          "concepts": [
+            "Both tread edges",
+            "Inflation & load clues",
+            "Not a final diagnosis"
+          ]
+        },
+        {
+          "title": "One-sided wear",
+          "text": "Can indicate alignment, suspension or axle issues.",
+          "image": "assets/lessons/lesson-7-3.svg",
+          "alt": "One-sided wear: One tread edge; Alignment or axle clues; Inspect related systems. Simplified concept illustration.",
+          "concepts": [
+            "One tread edge",
+            "Alignment or axle clues",
+            "Inspect related systems"
+          ]
+        },
+        {
+          "title": "Cupping / scalloping",
+          "text": "May relate to shocks, balance, wheel-end or suspension issues.",
+          "image": "assets/lessons/lesson-7-4.svg",
+          "alt": "Cupping / scalloping: Repeated low spots; Wheel-end & suspension; Professional assessment. Simplified concept illustration.",
+          "concepts": [
+            "Repeated low spots",
+            "Wheel-end & suspension",
+            "Professional assessment"
+          ]
+        },
+        {
+          "title": "Flat spots",
+          "text": "May follow wheel lockup or extended stationary loading.",
+          "image": "assets/lessons/lesson-7-5.svg",
+          "alt": "Flat spots: Localized tread flattening; Operating history; Qualified inspection. Simplified concept illustration.",
+          "concepts": [
+            "Localized tread flattening",
+            "Operating history",
+            "Qualified inspection"
+          ]
+        },
+        {
+          "title": "Bulge / exposed cords",
+          "text": "Potential serious tire damage; arrange qualified inspection before use.",
+          "image": "assets/lessons/lesson-7-6.svg",
+          "alt": "Bulge / exposed cords: Sidewall deformation; Exposed reinforcement; Qualified tire service. Simplified concept illustration.",
+          "concepts": [
+            "Sidewall deformation",
+            "Exposed reinforcement",
+            "Qualified tire service"
+          ]
+        },
+        {
+          "title": "Coordinator action",
+          "text": "Capture tire position, size, DOT tire date code, photos, tread depth and vendor findings.",
+          "image": "assets/lessons/lesson-7-7.svg",
+          "alt": "Coordinator action: Position & tire size; Photos & measurements; Vendor findings. Simplified concept illustration.",
+          "concepts": [
+            "Position & tire size",
+            "Photos & measurements",
+            "Vendor findings"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-8.png",
+      "referenceAlt": "Original illustration embedded on PDF page 8: Tire Wear Patterns. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-8",
@@ -205,7 +728,77 @@
         "Container chassis Frame carrying shipping containers; verify twist locks, frame and running gear.",
         "53-foot trailer Common North American length, not a trailer type; confirm dimensions and configuration."
       ],
-      "page": 9
+      "page": 9,
+      "visualNotes": [
+        {
+          "title": "Dry van",
+          "text": "Enclosed general-freight trailer; inspect doors, hinges, lights, brakes, tires and structure.",
+          "image": "assets/lessons/lesson-8-1.svg",
+          "alt": "Dry van: Enclosed freight body; Doors & structure; Running gear. Simplified concept illustration.",
+          "concepts": [
+            "Enclosed freight body",
+            "Doors & structure",
+            "Running gear"
+          ]
+        },
+        {
+          "title": "Reefer",
+          "text": "Insulated trailer with refrigeration unit; mechanical and refrigeration systems both matter.",
+          "image": "assets/lessons/lesson-8-2.svg",
+          "alt": "Reefer: Insulated body; Refrigeration unit; Mechanical + cooling service. Simplified concept illustration.",
+          "concepts": [
+            "Insulated body",
+            "Refrigeration unit",
+            "Mechanical + cooling service"
+          ]
+        },
+        {
+          "title": "Flatbed / step deck",
+          "text": "Open equipment for large loads; check structural components and securement hardware.",
+          "image": "assets/lessons/lesson-8-3.svg",
+          "alt": "Flatbed / step deck: Open deck; Structure; Securement hardware. Simplified concept illustration.",
+          "concepts": [
+            "Open deck",
+            "Structure",
+            "Securement hardware"
+          ]
+        },
+        {
+          "title": "Tanker",
+          "text": "Specialized vessel; inspections and repair may require specialist certification.",
+          "image": "assets/lessons/lesson-8-4.svg",
+          "alt": "Tanker: Specialized vessel; Load compatibility; Specialist service. Simplified concept illustration.",
+          "concepts": [
+            "Specialized vessel",
+            "Load compatibility",
+            "Specialist service"
+          ]
+        },
+        {
+          "title": "Container chassis",
+          "text": "Frame carrying shipping containers; verify twist locks, frame and running gear.",
+          "image": "assets/lessons/lesson-8-5.svg",
+          "alt": "Container chassis: Container frame; Twist locks; Running gear. Simplified concept illustration.",
+          "concepts": [
+            "Container frame",
+            "Twist locks",
+            "Running gear"
+          ]
+        },
+        {
+          "title": "53-foot trailer",
+          "text": "Common North American length, not a trailer type; confirm dimensions and configuration.",
+          "image": "assets/lessons/lesson-8-6.svg",
+          "alt": "53-foot trailer: Length measurement; Not a trailer type; Confirm configuration. Simplified concept illustration.",
+          "concepts": [
+            "Length measurement",
+            "Not a trailer type",
+            "Confirm configuration"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-9.png",
+      "referenceAlt": "Original illustration embedded on PDF page 9: Trailer Types. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-9",
@@ -219,7 +812,77 @@
         "Trailer tandem slider Allows repositioning axles for weight distribution; locks must be secured.",
         "Coordinator action When coupling trouble is reported, request photos and qualified on-site inspection; do not remotely certify a connection."
       ],
-      "page": 10
+      "page": 10,
+      "visualNotes": [
+        {
+          "title": "Fifth wheel / kingpin",
+          "text": "Coupling plate and trailer pin form the mechanical connection; trained personnel verify proper engagement.",
+          "image": "assets/lessons/lesson-9-1.svg",
+          "alt": "Fifth wheel / kingpin: Tractor fifth wheel; Trailer kingpin; Qualified engagement check. Simplified concept illustration.",
+          "concepts": [
+            "Tractor fifth wheel",
+            "Trailer kingpin",
+            "Qualified engagement check"
+          ]
+        },
+        {
+          "title": "Glad hands",
+          "text": "Connect tractor/trailer air lines; service and emergency circuits must be correct.",
+          "image": "assets/lessons/lesson-9-2.svg",
+          "alt": "Glad hands: Service air line; Emergency / supply line; Correct coupling. Simplified concept illustration.",
+          "concepts": [
+            "Service air line",
+            "Emergency / supply line",
+            "Correct coupling"
+          ]
+        },
+        {
+          "title": "Electrical pigtail",
+          "text": "Connects trailer lighting and electrical circuits.",
+          "image": "assets/lessons/lesson-9-3.svg",
+          "alt": "Electrical pigtail: Tractor electrical supply; Trailer connector; Lighting & circuits. Simplified concept illustration.",
+          "concepts": [
+            "Tractor electrical supply",
+            "Trailer connector",
+            "Lighting & circuits"
+          ]
+        },
+        {
+          "title": "Landing gear",
+          "text": "Supports uncoupled trailer; bent legs, damaged feet and gear failures need service.",
+          "image": "assets/lessons/lesson-9-4.svg",
+          "alt": "Landing gear: Trailer support legs; Feet & bracing; Uncoupled support. Simplified concept illustration.",
+          "concepts": [
+            "Trailer support legs",
+            "Feet & bracing",
+            "Uncoupled support"
+          ]
+        },
+        {
+          "title": "Trailer tandem slider",
+          "text": "Allows repositioning axles for weight distribution; locks must be secured.",
+          "image": "assets/lessons/lesson-9-5.svg",
+          "alt": "Trailer tandem slider: Sliding axle assembly; Positioning rails; Secured locking mechanism. Simplified concept illustration.",
+          "concepts": [
+            "Sliding axle assembly",
+            "Positioning rails",
+            "Secured locking mechanism"
+          ]
+        },
+        {
+          "title": "Coordinator action",
+          "text": "When coupling trouble is reported, request photos and qualified on-site inspection; do not remotely certify a connection.",
+          "image": "assets/lessons/lesson-9-6.svg",
+          "alt": "Coordinator action: Report & photos; On-site qualified inspection; Document findings. Simplified concept illustration.",
+          "concepts": [
+            "Report & photos",
+            "On-site qualified inspection",
+            "Document findings"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-10.png",
+      "referenceAlt": "Original illustration embedded on PDF page 10: Coupling System. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-10",
@@ -233,7 +896,77 @@
         "Alarm code Record exact manufacturer code, unit model and symptoms; route to qualified reefer provider.",
         "Cargo risk Immediately inform operations of temperature excursions; do not change setpoint without authorization."
       ],
-      "page": 11
+      "page": 11,
+      "visualNotes": [
+        {
+          "title": "Refrigeration unit",
+          "text": "Independent or electrically powered system maintains setpoint under operating conditions.",
+          "image": "assets/lessons/lesson-10-1.svg",
+          "alt": "Refrigeration unit: Refrigeration equipment; Insulated cargo space; Required setpoint. Simplified concept illustration.",
+          "concepts": [
+            "Refrigeration equipment",
+            "Insulated cargo space",
+            "Required setpoint"
+          ]
+        },
+        {
+          "title": "Setpoint vs actual",
+          "text": "Record requested temperature and displayed supply/return or box temperatures separately.",
+          "image": "assets/lessons/lesson-10-2.svg",
+          "alt": "Setpoint vs actual: Requested setpoint; Displayed actual reading; Record separately. Simplified concept illustration.",
+          "concepts": [
+            "Requested setpoint",
+            "Displayed actual reading",
+            "Record separately"
+          ]
+        },
+        {
+          "title": "Fuel / electrical",
+          "text": "Check reefer fuel level, power supply, alarm state and running mode.",
+          "image": "assets/lessons/lesson-10-3.svg",
+          "alt": "Fuel / electrical: Reefer fuel; Electrical supply; Running mode & alarms. Simplified concept illustration.",
+          "concepts": [
+            "Reefer fuel",
+            "Electrical supply",
+            "Running mode & alarms"
+          ]
+        },
+        {
+          "title": "Continuous / start-stop",
+          "text": "Modes depend on cargo requirements and shipper instructions.",
+          "image": "assets/lessons/lesson-10-4.svg",
+          "alt": "Continuous / start-stop: Continuous operation; Cycling operation; Cargo / shipper instructions. Simplified concept illustration.",
+          "concepts": [
+            "Continuous operation",
+            "Cycling operation",
+            "Cargo / shipper instructions"
+          ]
+        },
+        {
+          "title": "Alarm code",
+          "text": "Record exact manufacturer code, unit model and symptoms; route to qualified reefer provider.",
+          "image": "assets/lessons/lesson-10-5.svg",
+          "alt": "Alarm code: Exact alarm code; Reefer make & model; Specialist diagnosis. Simplified concept illustration.",
+          "concepts": [
+            "Exact alarm code",
+            "Reefer make & model",
+            "Specialist diagnosis"
+          ]
+        },
+        {
+          "title": "Cargo risk",
+          "text": "Immediately inform operations of temperature excursions; do not change setpoint without authorization.",
+          "image": "assets/lessons/lesson-10-6.svg",
+          "alt": "Cargo risk: Temperature excursion; Notify operations; Authorized cargo response. Simplified concept illustration.",
+          "concepts": [
+            "Temperature excursion",
+            "Notify operations",
+            "Authorized cargo response"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-11.png",
+      "referenceAlt": "Original illustration embedded on PDF page 11: Reefer Systems. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-11",
@@ -248,7 +981,88 @@
         "OOS Out of Service means operation is prohibited until relevant conditions are corrected.",
         "Documentation Maintain inspection and repair records required by applicable rules and fleet policy."
       ],
-      "page": 12
+      "page": 12,
+      "visualNotes": [
+        {
+          "title": "DOT / FMCSA",
+          "text": "US Department of Transportation / Federal Motor Carrier Safety Administration.",
+          "image": "assets/lessons/lesson-11-1.svg",
+          "alt": "DOT / FMCSA: US DOT; FMCSA; Applicable safety framework. Simplified concept illustration.",
+          "concepts": [
+            "US DOT",
+            "FMCSA",
+            "Applicable safety framework"
+          ]
+        },
+        {
+          "title": "Pre-trip inspection",
+          "text": "Driver must be satisfied the vehicle is in safe operating condition before driving.",
+          "image": "assets/lessons/lesson-11-2.svg",
+          "alt": "Pre-trip inspection: Before operation; Safe operating condition; Driver responsibility. Simplified concept illustration.",
+          "concepts": [
+            "Before operation",
+            "Safe operating condition",
+            "Driver responsibility"
+          ]
+        },
+        {
+          "title": "DVIR",
+          "text": "Driver Vehicle Inspection Report; applicability and reporting rules depend on operation and defects.",
+          "image": "assets/lessons/lesson-11-3.svg",
+          "alt": "DVIR: Defect report; Repair follow-up; Operation-specific rules. Simplified concept illustration.",
+          "concepts": [
+            "Defect report",
+            "Repair follow-up",
+            "Operation-specific rules"
+          ]
+        },
+        {
+          "title": "Periodic inspection",
+          "text": "Most regulated commercial vehicles need qualifying periodic inspection at least every 12 months.",
+          "image": "assets/lessons/lesson-11-4.svg",
+          "alt": "Periodic inspection: Qualifying inspection; Applicable periodic interval; Retain required evidence. Simplified concept illustration.",
+          "concepts": [
+            "Qualifying inspection",
+            "Applicable periodic interval",
+            "Retain required evidence"
+          ]
+        },
+        {
+          "title": "Roadside inspection",
+          "text": "Enforcement may inspect driver, vehicle and paperwork under applicable standards.",
+          "image": "assets/lessons/lesson-11-5.svg",
+          "alt": "Roadside inspection: Driver; Vehicle; Required paperwork. Simplified concept illustration.",
+          "concepts": [
+            "Driver",
+            "Vehicle",
+            "Required paperwork"
+          ]
+        },
+        {
+          "title": "OOS",
+          "text": "Out of Service means operation is prohibited until relevant conditions are corrected.",
+          "image": "assets/lessons/lesson-11-6.svg",
+          "alt": "OOS: Out of service; Correct relevant defects; Required documented clearance. Simplified concept illustration.",
+          "concepts": [
+            "Out of service",
+            "Correct relevant defects",
+            "Required documented clearance"
+          ]
+        },
+        {
+          "title": "Documentation",
+          "text": "Maintain inspection and repair records required by applicable rules and fleet policy.",
+          "image": "assets/lessons/lesson-11-7.svg",
+          "alt": "Documentation: Inspection records; Repair records; Applicable rules & fleet policy. Simplified concept illustration.",
+          "concepts": [
+            "Inspection records",
+            "Repair records",
+            "Applicable rules & fleet policy"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-12.png",
+      "referenceAlt": "Original illustration embedded on PDF page 12: DOT & FMCSA. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-12",
@@ -263,7 +1077,88 @@
         "Leaks / structural Fluid leaks, frame issues, securement and other applicable defects.",
         "Escalation Never dispatch a vehicle under an active OOS condition; obtain documented clearance."
       ],
-      "page": 13
+      "page": 13,
+      "visualNotes": [
+        {
+          "title": "Brakes",
+          "text": "Condition, adjustment, leaks, hoses and air-pressure issues.",
+          "image": "assets/lessons/lesson-12-1.svg",
+          "alt": "Brakes: Hoses & air pressure; Leaks & condition; Qualified brake inspection. Simplified concept illustration.",
+          "concepts": [
+            "Hoses & air pressure",
+            "Leaks & condition",
+            "Qualified brake inspection"
+          ]
+        },
+        {
+          "title": "Tires / wheels",
+          "text": "Tread, inflation, sidewalls, wheel fasteners, cracks and wheel-end leaks.",
+          "image": "assets/lessons/lesson-12-2.svg",
+          "alt": "Tires / wheels: Tires & sidewalls; Wheel fasteners; Wheel-end leaks. Simplified concept illustration.",
+          "concepts": [
+            "Tires & sidewalls",
+            "Wheel fasteners",
+            "Wheel-end leaks"
+          ]
+        },
+        {
+          "title": "Steering / suspension",
+          "text": "Loose, broken, missing or excessively worn components.",
+          "image": "assets/lessons/lesson-12-3.svg",
+          "alt": "Steering / suspension: Steering linkage; Suspension components; Damage or excessive wear. Simplified concept illustration.",
+          "concepts": [
+            "Steering linkage",
+            "Suspension components",
+            "Damage or excessive wear"
+          ]
+        },
+        {
+          "title": "Lighting",
+          "text": "Required lamps, reflectors, conspicuity markings and electrical connections.",
+          "image": "assets/lessons/lesson-12-4.svg",
+          "alt": "Lighting: Required lamps; Reflectors & markings; Electrical connections. Simplified concept illustration.",
+          "concepts": [
+            "Required lamps",
+            "Reflectors & markings",
+            "Electrical connections"
+          ]
+        },
+        {
+          "title": "Coupling",
+          "text": "Fifth wheel, kingpin, safety devices, mounting and connection security.",
+          "image": "assets/lessons/lesson-12-5.svg",
+          "alt": "Coupling: Fifth wheel & kingpin; Mountings; Connection security. Simplified concept illustration.",
+          "concepts": [
+            "Fifth wheel & kingpin",
+            "Mountings",
+            "Connection security"
+          ]
+        },
+        {
+          "title": "Leaks / structural",
+          "text": "Fluid leaks, frame issues, securement and other applicable defects.",
+          "image": "assets/lessons/lesson-12-6.svg",
+          "alt": "Leaks / structural: Fluid leak report; Frame condition; Qualified assessment. Simplified concept illustration.",
+          "concepts": [
+            "Fluid leak report",
+            "Frame condition",
+            "Qualified assessment"
+          ]
+        },
+        {
+          "title": "Escalation",
+          "text": "Never dispatch a vehicle under an active OOS condition; obtain documented clearance.",
+          "image": "assets/lessons/lesson-12-7.svg",
+          "alt": "Escalation: Active OOS condition; Repairs & evidence; Documented clearance. Simplified concept illustration.",
+          "concepts": [
+            "Active OOS condition",
+            "Repairs & evidence",
+            "Documented clearance"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-13.png",
+      "referenceAlt": "Original illustration embedded on PDF page 13: Inspection Priorities. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-13",
@@ -278,7 +1173,88 @@
         "DPF / DEF Aftertreatment warning; capture exact message, fluid level and derate status.",
         "DTC / SPN / FMI Fault-code formats vary; technicians use diagnostic tools and OEM service information."
       ],
-      "page": 14
+      "page": 14,
+      "visualNotes": [
+        {
+          "title": "Check Engine / MIL",
+          "text": "Engine or emissions-related fault; capture active code and vehicle behavior.",
+          "image": "assets/lessons/lesson-13-1.svg",
+          "alt": "Check Engine / MIL: Engine / emissions report; Exact active code; Vehicle behavior. Simplified concept illustration.",
+          "concepts": [
+            "Engine / emissions report",
+            "Exact active code",
+            "Vehicle behavior"
+          ]
+        },
+        {
+          "title": "Stop Engine / red warning",
+          "text": "Potentially severe condition; instruct driver to follow OEM safe-stop guidance.",
+          "image": "assets/lessons/lesson-13-2.svg",
+          "alt": "Stop Engine / red warning: Red warning report; OEM safe-stop guidance; Qualified assessment. Simplified concept illustration.",
+          "concepts": [
+            "Red warning report",
+            "OEM safe-stop guidance",
+            "Qualified assessment"
+          ]
+        },
+        {
+          "title": "Low oil pressure",
+          "text": "Serious engine protection warning; avoid continued operation until assessed.",
+          "image": "assets/lessons/lesson-13-3.svg",
+          "alt": "Low oil pressure: Oil-pressure warning; Engine protection risk; Assessment before operation. Simplified concept illustration.",
+          "concepts": [
+            "Oil-pressure warning",
+            "Engine protection risk",
+            "Assessment before operation"
+          ]
+        },
+        {
+          "title": "High coolant temperature",
+          "text": "Overheating risk; driver should stop safely and follow manufacturer guidance.",
+          "image": "assets/lessons/lesson-13-4.svg",
+          "alt": "High coolant temperature: Temperature warning; Overheating risk; Safe stop & OEM guidance. Simplified concept illustration.",
+          "concepts": [
+            "Temperature warning",
+            "Overheating risk",
+            "Safe stop & OEM guidance"
+          ]
+        },
+        {
+          "title": "ABS",
+          "text": "Braking control fault; service braking may remain but system needs evaluation.",
+          "image": "assets/lessons/lesson-13-5.svg",
+          "alt": "ABS: ABS fault indication; Record lamp status; Qualified evaluation. Simplified concept illustration.",
+          "concepts": [
+            "ABS fault indication",
+            "Record lamp status",
+            "Qualified evaluation"
+          ]
+        },
+        {
+          "title": "DPF / DEF",
+          "text": "Aftertreatment warning; capture exact message, fluid level and derate status.",
+          "image": "assets/lessons/lesson-13-6.svg",
+          "alt": "DPF / DEF: Exact dashboard message; Fluid level; Derate status. Simplified concept illustration.",
+          "concepts": [
+            "Exact dashboard message",
+            "Fluid level",
+            "Derate status"
+          ]
+        },
+        {
+          "title": "DTC / SPN / FMI",
+          "text": "Fault-code formats vary; technicians use diagnostic tools and OEM service information.",
+          "image": "assets/lessons/lesson-13-7.svg",
+          "alt": "DTC / SPN / FMI: Exact fault code; Vehicle identification; OEM diagnostic information. Simplified concept illustration.",
+          "concepts": [
+            "Exact fault code",
+            "Vehicle identification",
+            "OEM diagnostic information"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-14.png",
+      "referenceAlt": "Original illustration embedded on PDF page 14: Fault Codes & Lamps. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-14",
@@ -293,7 +1269,88 @@
         "Evidence Photos, dashboard display, tire position and previous repair history.",
         "Avoid Do not tell a driver to bypass warnings or attempt unsafe roadside mechanical repairs."
       ],
-      "page": 15
+      "page": 15,
+      "visualNotes": [
+        {
+          "title": "Location",
+          "text": "Exact safe location, highway/mile marker, direction, GPS pin if available.",
+          "image": "assets/lessons/lesson-14-1.svg",
+          "alt": "Location: Highway & mile marker; Travel direction; Safe location / GPS pin. Simplified concept illustration.",
+          "concepts": [
+            "Highway & mile marker",
+            "Travel direction",
+            "Safe location / GPS pin"
+          ]
+        },
+        {
+          "title": "Identification",
+          "text": "Driver name/callback, tractor unit, trailer unit, VIN if requested.",
+          "image": "assets/lessons/lesson-14-2.svg",
+          "alt": "Identification: Driver & callback; Tractor / trailer units; VIN if needed. Simplified concept illustration.",
+          "concepts": [
+            "Driver & callback",
+            "Tractor / trailer units",
+            "VIN if needed"
+          ]
+        },
+        {
+          "title": "Symptoms",
+          "text": "What happened, when, warning messages, fault codes, noises and leaks.",
+          "image": "assets/lessons/lesson-14-3.svg",
+          "alt": "Symptoms: What happened & when; Messages & codes; Sounds or leaks. Simplified concept illustration.",
+          "concepts": [
+            "What happened & when",
+            "Messages & codes",
+            "Sounds or leaks"
+          ]
+        },
+        {
+          "title": "Safety",
+          "text": "Is the driver in a safe location? Any traffic hazard, smoke, injury or active OOS status?",
+          "image": "assets/lessons/lesson-14-4.svg",
+          "alt": "Safety: Safe location?; Traffic / smoke / injury?; Active OOS status?. Simplified concept illustration.",
+          "concepts": [
+            "Safe location?",
+            "Traffic / smoke / injury?",
+            "Active OOS status?"
+          ]
+        },
+        {
+          "title": "Mobility",
+          "text": "Can the unit move safely? Is the load temperature-sensitive?",
+          "image": "assets/lessons/lesson-14-5.svg",
+          "alt": "Mobility: Can it move safely?; Temperature-sensitive load?; Qualified assessment. Simplified concept illustration.",
+          "concepts": [
+            "Can it move safely?",
+            "Temperature-sensitive load?",
+            "Qualified assessment"
+          ]
+        },
+        {
+          "title": "Evidence",
+          "text": "Photos, dashboard display, tire position and previous repair history.",
+          "image": "assets/lessons/lesson-14-6.svg",
+          "alt": "Evidence: Relevant photos; Dashboard messages; Position & service history. Simplified concept illustration.",
+          "concepts": [
+            "Relevant photos",
+            "Dashboard messages",
+            "Position & service history"
+          ]
+        },
+        {
+          "title": "Avoid",
+          "text": "Do not tell a driver to bypass warnings or attempt unsafe roadside mechanical repairs.",
+          "image": "assets/lessons/lesson-14-7.svg",
+          "alt": "Avoid: No warning bypass; No unsafe roadside repair; Qualified service. Simplified concept illustration.",
+          "concepts": [
+            "No warning bypass",
+            "No unsafe roadside repair",
+            "Qualified service"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-15.png",
+      "referenceAlt": "Original illustration embedded on PDF page 15: Driver Intake. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-15",
@@ -308,7 +1365,88 @@
         "6. Verify Get invoice, technician findings, test results and required compliance clearance.",
         "7. Close Update WO, downtime, cost center and fleet/dispatch availability."
       ],
-      "page": 16
+      "page": 16,
+      "visualNotes": [
+        {
+          "title": "1. Triage",
+          "text": "Classify safety urgency and protect driver; call emergency services when warranted.",
+          "image": "assets/lessons/lesson-15-1.svg",
+          "alt": "1. Triage: Protect driver; Classify urgency; Emergency help if needed. Simplified concept illustration.",
+          "concepts": [
+            "Protect driver",
+            "Classify urgency",
+            "Emergency help if needed"
+          ]
+        },
+        {
+          "title": "2. Vendor selection",
+          "text": "Find suitable mobile mechanic, tow provider or repair shop for exact equipment.",
+          "image": "assets/lessons/lesson-15-2.svg",
+          "alt": "2. Vendor selection: Exact equipment; Appropriate capability; Mobile / tow / shop. Simplified concept illustration.",
+          "concepts": [
+            "Exact equipment",
+            "Appropriate capability",
+            "Mobile / tow / shop"
+          ]
+        },
+        {
+          "title": "3. Confirm ETA",
+          "text": "Obtain dispatch ETA and communicate changes to operations and driver.",
+          "image": "assets/lessons/lesson-15-3.svg",
+          "alt": "3. Confirm ETA: Dispatch ETA; Driver update; Operations update. Simplified concept illustration.",
+          "concepts": [
+            "Dispatch ETA",
+            "Driver update",
+            "Operations update"
+          ]
+        },
+        {
+          "title": "4. Approve scope",
+          "text": "Request diagnosis, labor estimate, parts and approval per fleet limits.",
+          "image": "assets/lessons/lesson-15-4.svg",
+          "alt": "4. Approve scope: Diagnosis; Labor & parts estimate; Fleet authorization. Simplified concept illustration.",
+          "concepts": [
+            "Diagnosis",
+            "Labor & parts estimate",
+            "Fleet authorization"
+          ]
+        },
+        {
+          "title": "5. Monitor",
+          "text": "Track arrival, diagnosis, repair progress, parts delays and updated ETR.",
+          "image": "assets/lessons/lesson-15-5.svg",
+          "alt": "5. Monitor: Arrival & diagnosis; Parts / repair progress; Updated ETR. Simplified concept illustration.",
+          "concepts": [
+            "Arrival & diagnosis",
+            "Parts / repair progress",
+            "Updated ETR"
+          ]
+        },
+        {
+          "title": "6. Verify",
+          "text": "Get invoice, technician findings, test results and required compliance clearance.",
+          "image": "assets/lessons/lesson-15-6.svg",
+          "alt": "6. Verify: Technician findings; Tests & invoice; Required clearance. Simplified concept illustration.",
+          "concepts": [
+            "Technician findings",
+            "Tests & invoice",
+            "Required clearance"
+          ]
+        },
+        {
+          "title": "7. Close",
+          "text": "Update WO, downtime, cost center and fleet/dispatch availability.",
+          "image": "assets/lessons/lesson-15-7.svg",
+          "alt": "7. Close: Work order; Downtime & cost; Dispatch availability. Simplified concept illustration.",
+          "concepts": [
+            "Work order",
+            "Downtime & cost",
+            "Dispatch availability"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-16.png",
+      "referenceAlt": "Original illustration embedded on PDF page 16: Breakdown Workflow. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-16",
@@ -323,7 +1461,88 @@
         "Return to service Confirm work completion, inspection evidence, driver notification and dispatch release.",
         "Record quality Record who approved, what was performed, when and by whom."
       ],
-      "page": 17
+      "page": 17,
+      "visualNotes": [
+        {
+          "title": "PM A/B/C",
+          "text": "Fleet-defined service tiers, not universal DOT categories; use company/OEM schedules.",
+          "image": "assets/lessons/lesson-16-1.svg",
+          "alt": "PM A/B/C: Fleet-defined tiers; OEM schedule; Not universal DOT levels. Simplified concept illustration.",
+          "concepts": [
+            "Fleet-defined tiers",
+            "OEM schedule",
+            "Not universal DOT levels"
+          ]
+        },
+        {
+          "title": "Trigger",
+          "text": "Miles, engine hours, calendar time, duty cycle or condition monitoring.",
+          "image": "assets/lessons/lesson-16-2.svg",
+          "alt": "Trigger: Miles / engine hours; Calendar time; Duty cycle / condition. Simplified concept illustration.",
+          "concepts": [
+            "Miles / engine hours",
+            "Calendar time",
+            "Duty cycle / condition"
+          ]
+        },
+        {
+          "title": "WO / RO",
+          "text": "Work Order / Repair Order: unit, complaint, diagnosis, labor, parts, dates and approval.",
+          "image": "assets/lessons/lesson-16-3.svg",
+          "alt": "WO / RO: Unit & complaint; Diagnosis & work; Parts / dates / approval. Simplified concept illustration.",
+          "concepts": [
+            "Unit & complaint",
+            "Diagnosis & work",
+            "Parts / dates / approval"
+          ]
+        },
+        {
+          "title": "PM forecast",
+          "text": "Use odometer/hours and forecasted utilization to schedule shop time.",
+          "image": "assets/lessons/lesson-16-4.svg",
+          "alt": "PM forecast: Current reading; Expected utilization; Schedule shop time. Simplified concept illustration.",
+          "concepts": [
+            "Current reading",
+            "Expected utilization",
+            "Schedule shop time"
+          ]
+        },
+        {
+          "title": "Backlog",
+          "text": "Prioritize safety-critical defects before convenience repairs.",
+          "image": "assets/lessons/lesson-16-5.svg",
+          "alt": "Backlog: Safety-critical defects; Prioritized work; Convenience repairs. Simplified concept illustration.",
+          "concepts": [
+            "Safety-critical defects",
+            "Prioritized work",
+            "Convenience repairs"
+          ]
+        },
+        {
+          "title": "Return to service",
+          "text": "Confirm work completion, inspection evidence, driver notification and dispatch release.",
+          "image": "assets/lessons/lesson-16-6.svg",
+          "alt": "Return to service: Work & evidence; Driver notification; Dispatch release. Simplified concept illustration.",
+          "concepts": [
+            "Work & evidence",
+            "Driver notification",
+            "Dispatch release"
+          ]
+        },
+        {
+          "title": "Record quality",
+          "text": "Record who approved, what was performed, when and by whom.",
+          "image": "assets/lessons/lesson-16-7.svg",
+          "alt": "Record quality: Who approved?; What & when?; Who performed work?. Simplified concept illustration.",
+          "concepts": [
+            "Who approved?",
+            "What & when?",
+            "Who performed work?"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-17.png",
+      "referenceAlt": "Original illustration embedded on PDF page 17: PM & Work Orders. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-17",
@@ -338,7 +1557,88 @@
         "Road call rate Roadside events per distance, vehicle or operating period.",
         "Cost per mile Maintenance cost divided by miles over same period; document exclusions."
       ],
-      "page": 18
+      "page": 18,
+      "visualNotes": [
+        {
+          "title": "Vendor evaluation",
+          "text": "Capability, location, response time, certifications, warranty and quality.",
+          "image": "assets/lessons/lesson-17-1.svg",
+          "alt": "Vendor evaluation: Capability & location; Response & quality; Warranty / certifications. Simplified concept illustration.",
+          "concepts": [
+            "Capability & location",
+            "Response & quality",
+            "Warranty / certifications"
+          ]
+        },
+        {
+          "title": "Estimate review",
+          "text": "Compare diagnostic fee, labor hours/rate, parts, shop supplies, taxes and towing.",
+          "image": "assets/lessons/lesson-17-2.svg",
+          "alt": "Estimate review: Labor & diagnosis; Parts & supplies; Taxes / towing / total. Simplified concept illustration.",
+          "concepts": [
+            "Labor & diagnosis",
+            "Parts & supplies",
+            "Taxes / towing / total"
+          ]
+        },
+        {
+          "title": "Warranty",
+          "text": "Check OEM, part and repair warranty eligibility before authorizing payment.",
+          "image": "assets/lessons/lesson-17-3.svg",
+          "alt": "Warranty: OEM coverage; Part coverage; Prior repair warranty. Simplified concept illustration.",
+          "concepts": [
+            "OEM coverage",
+            "Part coverage",
+            "Prior repair warranty"
+          ]
+        },
+        {
+          "title": "Downtime",
+          "text": "Measure from unavailable to released; distinguish waiting, repair and parts delay.",
+          "image": "assets/lessons/lesson-17-4.svg",
+          "alt": "Downtime: Unavailable time; Waiting / parts / repair; Released time. Simplified concept illustration.",
+          "concepts": [
+            "Unavailable time",
+            "Waiting / parts / repair",
+            "Released time"
+          ]
+        },
+        {
+          "title": "PM compliance",
+          "text": "Completed scheduled PMs divided by PMs due, with clear time window.",
+          "image": "assets/lessons/lesson-17-5.svg",
+          "alt": "PM compliance: Completed scheduled PMs; PMs due in same window; Completed \u00f7 due. Simplified concept illustration.",
+          "concepts": [
+            "Completed scheduled PMs",
+            "PMs due in same window",
+            "Completed \u00f7 due"
+          ]
+        },
+        {
+          "title": "Road call rate",
+          "text": "Roadside events per distance, vehicle or operating period.",
+          "image": "assets/lessons/lesson-17-6.svg",
+          "alt": "Road call rate: Roadside events; Defined exposure period; Document denominator. Simplified concept illustration.",
+          "concepts": [
+            "Roadside events",
+            "Defined exposure period",
+            "Document denominator"
+          ]
+        },
+        {
+          "title": "Cost per mile",
+          "text": "Maintenance cost divided by miles over same period; document exclusions.",
+          "image": "assets/lessons/lesson-17-7.svg",
+          "alt": "Cost per mile: Maintenance cost; Miles in same period; Cost \u00f7 miles. Simplified concept illustration.",
+          "concepts": [
+            "Maintenance cost",
+            "Miles in same period",
+            "Cost \u00f7 miles"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-18.png",
+      "referenceAlt": "Original illustration embedded on PDF page 18: Vendors, Costs & KPIs. Supplied artwork with unverified embedded labels."
     },
     {
       "id": "lesson-18",
@@ -351,213 +1651,374 @@
         "Scenario D: Tire sidewall bulge Record axle and position, photo, size and location; arrange qualified tire service and assess OOS implications.",
         "Scenario E: OOS at roadside Record inspection report, exact defects and required repairs; obtain documentation before release."
       ],
-      "page": 19
+      "page": 19,
+      "visualNotes": [
+        {
+          "title": "Scenario A: Low air warning",
+          "text": "Driver reports repeated low air warning. Confirm safe stop and location; coordinate qualified brake-system service; do not authorize continued driving.",
+          "image": "assets/lessons/lesson-18-1.svg",
+          "alt": "Scenario A: Low air warning: Safe stop & location; Qualified brake service; No continued driving. Simplified concept illustration.",
+          "concepts": [
+            "Safe stop & location",
+            "Qualified brake service",
+            "No continued driving"
+          ]
+        },
+        {
+          "title": "Scenario B: Reefer high temp",
+          "text": "Record setpoint, actual temperatures, alarms, cargo type and location; escalate cargo risk and dispatch reefer specialist.",
+          "image": "assets/lessons/lesson-18-2.svg",
+          "alt": "Scenario B: Reefer high temp: Setpoint / actual / alarms; Cargo risk & location; Reefer specialist. Simplified concept illustration.",
+          "concepts": [
+            "Setpoint / actual / alarms",
+            "Cargo risk & location",
+            "Reefer specialist"
+          ]
+        },
+        {
+          "title": "Scenario C: PM overdue",
+          "text": "Review OEM/fleet interval, last service and planned miles; arrange slot before exceeding the approved maintenance window.",
+          "image": "assets/lessons/lesson-18-3.svg",
+          "alt": "Scenario C: PM overdue: Fleet / OEM interval; Last service & planned miles; Schedule approved service. Simplified concept illustration.",
+          "concepts": [
+            "Fleet / OEM interval",
+            "Last service & planned miles",
+            "Schedule approved service"
+          ]
+        },
+        {
+          "title": "Scenario D: Tire sidewall bulge",
+          "text": "Record axle and position, photo, size and location; arrange qualified tire service and assess OOS implications.",
+          "image": "assets/lessons/lesson-18-4.svg",
+          "alt": "Scenario D: Tire sidewall bulge: Position / photo / size; Qualified tire service; Assess OOS implications. Simplified concept illustration.",
+          "concepts": [
+            "Position / photo / size",
+            "Qualified tire service",
+            "Assess OOS implications"
+          ]
+        },
+        {
+          "title": "Scenario E: OOS at roadside",
+          "text": "Record inspection report, exact defects and required repairs; obtain documentation before release.",
+          "image": "assets/lessons/lesson-18-5.svg",
+          "alt": "Scenario E: OOS at roadside: Inspection report; Required repairs; Evidence before release. Simplified concept illustration.",
+          "concepts": [
+            "Inspection report",
+            "Required repairs",
+            "Evidence before release"
+          ]
+        }
+      ],
+      "referenceImage": "assets/lessons/pdf-page-19.png",
+      "referenceAlt": "Original illustration embedded on PDF page 19: Real-World Scenarios. Supplied artwork with unverified embedded labels."
     }
   ],
   "glossary": [
     {
       "term": "ABS",
-      "definition": "Anti-lock Braking System"
+      "definition": "Anti-lock Braking System",
+      "image": "assets/lessons/glossary-1.svg",
+      "alt": "ABS: Wheel-speed monitoring; Wheel-lock control; Faults require evaluation. Concept illustration."
     },
     {
       "term": "BOL",
-      "definition": "Bill of Lading"
+      "definition": "Bill of Lading",
+      "image": "assets/lessons/glossary-2.svg",
+      "alt": "BOL: Shipping document; Freight information; Bill of Lading. Concept illustration."
     },
     {
       "term": "Bobtail",
-      "definition": "Tractor without trailer attached"
+      "definition": "Tractor without trailer attached",
+      "image": "assets/lessons/glossary-3.svg",
+      "alt": "Bobtail: Tractor only; No trailer attached; Equipment configuration. Concept illustration."
     },
     {
       "term": "Breakdown",
-      "definition": "Failure interrupting normal operation"
+      "definition": "Failure interrupting normal operation",
+      "image": "assets/lessons/glossary-4.svg",
+      "alt": "Breakdown: Interrupted operation; Driver report; Service coordination. Concept illustration."
     },
     {
       "term": "CDL",
-      "definition": "Commercial Driver License"
+      "definition": "Commercial Driver License",
+      "image": "assets/lessons/glossary-5.svg",
+      "alt": "CDL: Commercial driving; Driver license; Applicable vehicle class. Concept illustration."
     },
     {
       "term": "CSA",
-      "definition": "Compliance, Safety, Accountability program"
+      "definition": "Compliance, Safety, Accountability program",
+      "image": "assets/lessons/glossary-6.svg",
+      "alt": "CSA: Compliance; Safety; Accountability. Concept illustration."
     },
     {
       "term": "CVSA",
-      "definition": "Commercial Vehicle Safety Alliance"
+      "definition": "Commercial Vehicle Safety Alliance",
+      "image": "assets/lessons/glossary-7.svg",
+      "alt": "CVSA: Commercial vehicles; Inspection standards; Safety alliance. Concept illustration."
     },
     {
       "term": "Deadhead",
-      "definition": "Driving without a paying load"
+      "definition": "Driving without a paying load",
+      "image": "assets/lessons/glossary-8.svg",
+      "alt": "Deadhead: Vehicle movement; Without a paying load; Trip context. Concept illustration."
     },
     {
       "term": "DEF",
-      "definition": "Diesel Exhaust Fluid"
+      "definition": "Diesel Exhaust Fluid",
+      "image": "assets/lessons/glossary-9.svg",
+      "alt": "DEF: Diesel exhaust fluid; Separate from diesel; Supports SCR aftertreatment. Concept illustration."
     },
     {
       "term": "DEL",
-      "definition": "Delivery"
+      "definition": "Delivery",
+      "image": "assets/lessons/glossary-10.svg",
+      "alt": "DEL: Delivery; Receiving location; Dispatch abbreviation. Concept illustration."
     },
     {
       "term": "Detention",
-      "definition": "Excess waiting at a shipper or receiver"
+      "definition": "Excess waiting at a shipper or receiver",
+      "image": "assets/lessons/glossary-11.svg",
+      "alt": "Detention: Shipper / receiver; Excess waiting; Record relevant times. Concept illustration."
     },
     {
       "term": "DOT",
-      "definition": "Department of Transportation"
+      "definition": "Department of Transportation",
+      "image": "assets/lessons/glossary-12.svg",
+      "alt": "DOT: Department of Transportation; US transportation framework; Confirm applicable rules. Concept illustration."
     },
     {
       "term": "DPF",
-      "definition": "Diesel Particulate Filter"
+      "definition": "Diesel Particulate Filter",
+      "image": "assets/lessons/glossary-13.svg",
+      "alt": "DPF: Diesel particulate filter; Traps soot; OEM-specific regeneration. Concept illustration."
     },
     {
       "term": "Drop & Hook",
-      "definition": "Exchange trailers without live loading"
+      "definition": "Exchange trailers without live loading",
+      "image": "assets/lessons/glossary-14.svg",
+      "alt": "Drop & Hook: Drop one trailer; Connect another trailer; No live loading required. Concept illustration."
     },
     {
       "term": "DTC",
-      "definition": "Diagnostic Trouble Code"
+      "definition": "Diagnostic Trouble Code",
+      "image": "assets/lessons/glossary-15.svg",
+      "alt": "DTC: Diagnostic Trouble Code; Record exact code; Not a standalone diagnosis. Concept illustration."
     },
     {
       "term": "DVIR",
-      "definition": "Driver Vehicle Inspection Report"
+      "definition": "Driver Vehicle Inspection Report",
+      "image": "assets/lessons/glossary-16.svg",
+      "alt": "DVIR: Driver Vehicle Inspection Report; Document reported defects; Applicable reporting rules. Concept illustration."
     },
     {
       "term": "ECM",
-      "definition": "Electronic Control Module"
+      "definition": "Electronic Control Module",
+      "image": "assets/lessons/glossary-17.svg",
+      "alt": "ECM: Electronic Control Module; Receives sensor information; Controls engine functions. Concept illustration."
     },
     {
       "term": "ELD",
-      "definition": "Electronic Logging Device"
+      "definition": "Electronic Logging Device",
+      "image": "assets/lessons/glossary-18.svg",
+      "alt": "ELD: Electronic Logging Device; Driver activity records; Hours-of-service context. Concept illustration."
     },
     {
       "term": "ETA",
-      "definition": "Estimated Time of Arrival"
+      "definition": "Estimated Time of Arrival",
+      "image": "assets/lessons/glossary-19.svg",
+      "alt": "ETA: Estimated Time of Arrival; Communicate the estimate; Update if conditions change. Concept illustration."
     },
     {
       "term": "ETR",
-      "definition": "Estimated Time of Repair or Return (confirm usage)"
+      "definition": "Estimated Time of Repair or Return (confirm usage)",
+      "image": "assets/lessons/glossary-20.svg",
+      "alt": "ETR: Repair / return estimate; Confirm intended meaning; Update during service. Concept illustration."
     },
     {
       "term": "FCFS",
-      "definition": "First Come, First Served"
+      "definition": "First Come, First Served",
+      "image": "assets/lessons/glossary-21.svg",
+      "alt": "FCFS: First Come; First Served; Queue order. Concept illustration."
     },
     {
       "term": "FMCSA",
-      "definition": "Federal Motor Carrier Safety Administration"
+      "definition": "Federal Motor Carrier Safety Administration",
+      "image": "assets/lessons/glossary-22.svg",
+      "alt": "FMCSA: Federal Motor Carrier; Safety Administration; US motor carrier safety. Concept illustration."
     },
     {
       "term": "GAWR",
-      "definition": "Gross Axle Weight Rating"
+      "definition": "Gross Axle Weight Rating",
+      "image": "assets/lessons/glossary-23.svg",
+      "alt": "GAWR: Gross Axle Weight Rating; Manufacturer axle rating; Distinguish actual weight. Concept illustration."
     },
     {
       "term": "GCWR",
-      "definition": "Gross Combination Weight Rating"
+      "definition": "Gross Combination Weight Rating",
+      "image": "assets/lessons/glossary-24.svg",
+      "alt": "GCWR: Gross Combination Weight Rating; Combination rating; Tractor and trailer context. Concept illustration."
     },
     {
       "term": "Glad hands",
-      "definition": "Pneumatic air-line coupling connectors"
+      "definition": "Pneumatic air-line coupling connectors",
+      "image": "assets/lessons/glossary-25.svg",
+      "alt": "Glad hands: Air-line connectors; Service circuit; Emergency / supply circuit. Concept illustration."
     },
     {
       "term": "GVWR",
-      "definition": "Gross Vehicle Weight Rating"
+      "definition": "Gross Vehicle Weight Rating",
+      "image": "assets/lessons/glossary-26.svg",
+      "alt": "GVWR: Gross Vehicle Weight Rating; Manufacturer vehicle rating; Distinguish actual weight. Concept illustration."
     },
     {
       "term": "HOS",
-      "definition": "Hours of Service"
+      "definition": "Hours of Service",
+      "image": "assets/lessons/glossary-27.svg",
+      "alt": "HOS: Hours of Service; Driving / duty time; Applicable operating rules. Concept illustration."
     },
     {
       "term": "Inbound",
-      "definition": "Coming into a facility"
+      "definition": "Coming into a facility",
+      "image": "assets/lessons/glossary-28.svg",
+      "alt": "Inbound: Coming into a facility; Arrival direction; Facility perspective. Concept illustration."
     },
     {
       "term": "Kingpin",
-      "definition": "Trailer pin that engages fifth wheel"
+      "definition": "Trailer pin that engages fifth wheel",
+      "image": "assets/lessons/glossary-29.svg",
+      "alt": "Kingpin: Trailer coupling pin; Engages tractor fifth wheel; Qualified engagement check. Concept illustration."
     },
     {
       "term": "Layover",
-      "definition": "Extended wait between assignments"
+      "definition": "Extended wait between assignments",
+      "image": "assets/lessons/glossary-30.svg",
+      "alt": "Layover: Extended wait; Between assignments; Dispatch context. Concept illustration."
     },
     {
       "term": "Live load",
-      "definition": "Loading while driver waits"
+      "definition": "Loading while driver waits",
+      "image": "assets/lessons/glossary-31.svg",
+      "alt": "Live load: Freight being loaded; Driver waits; Loading operation. Concept illustration."
     },
     {
       "term": "Live unload",
-      "definition": "Unloading while driver waits"
+      "definition": "Unloading while driver waits",
+      "image": "assets/lessons/glossary-32.svg",
+      "alt": "Live unload: Freight being unloaded; Driver waits; Receiving operation. Concept illustration."
     },
     {
       "term": "Loaded miles",
-      "definition": "Distance traveled with freight"
+      "definition": "Distance traveled with freight",
+      "image": "assets/lessons/glossary-33.svg",
+      "alt": "Loaded miles: Distance traveled; Freight on board; Trip measurement. Concept illustration."
     },
     {
       "term": "OOS",
-      "definition": "Out of Service"
+      "definition": "Out of Service",
+      "image": "assets/lessons/glossary-34.svg",
+      "alt": "OOS: Out of Service; Correct relevant conditions; Clearance before operation. Concept illustration."
     },
     {
       "term": "OEM",
-      "definition": "Original Equipment Manufacturer"
+      "definition": "Original Equipment Manufacturer",
+      "image": "assets/lessons/glossary-35.svg",
+      "alt": "OEM: Original Equipment Manufacturer; Vehicle / component maker; Model-specific information. Concept illustration."
     },
     {
       "term": "Outbound",
-      "definition": "Leaving a facility"
+      "definition": "Leaving a facility",
+      "image": "assets/lessons/glossary-36.svg",
+      "alt": "Outbound: Leaving a facility; Departure direction; Facility perspective. Concept illustration."
     },
     {
       "term": "PM",
-      "definition": "Preventive Maintenance"
+      "definition": "Preventive Maintenance",
+      "image": "assets/lessons/glossary-37.svg",
+      "alt": "PM: Preventive Maintenance; Planned service; Fleet / OEM schedules. Concept illustration."
     },
     {
       "term": "PM A/B/C",
-      "definition": "Fleet-specific preventive maintenance levels"
+      "definition": "Fleet-specific preventive maintenance levels",
+      "image": "assets/lessons/glossary-38.svg",
+      "alt": "PM A/B/C: Fleet-specific service levels; Not universal DOT categories; Use approved schedules. Concept illustration."
     },
     {
       "term": "POD",
-      "definition": "Proof of Delivery"
+      "definition": "Proof of Delivery",
+      "image": "assets/lessons/glossary-39.svg",
+      "alt": "POD: Proof of Delivery; Delivery confirmation; Dispatch documentation. Concept illustration."
     },
     {
       "term": "Pre-trip",
-      "definition": "Inspection before operation"
+      "definition": "Inspection before operation",
+      "image": "assets/lessons/glossary-40.svg",
+      "alt": "Pre-trip: Before operation; Inspect vehicle condition; Follow applicable rules. Concept illustration."
     },
     {
       "term": "PU",
-      "definition": "Pickup"
+      "definition": "Pickup",
+      "image": "assets/lessons/glossary-41.svg",
+      "alt": "PU: Pickup; Shipping location; Dispatch abbreviation. Concept illustration."
     },
     {
       "term": "Reefer",
-      "definition": "Refrigerated trailer or its refrigeration unit"
+      "definition": "Refrigerated trailer or its refrigeration unit",
+      "image": "assets/lessons/glossary-42.svg",
+      "alt": "Reefer: Refrigerated trailer; Or refrigeration unit; Temperature-sensitive freight. Concept illustration."
     },
     {
       "term": "RO",
-      "definition": "Repair Order"
+      "definition": "Repair Order",
+      "image": "assets/lessons/glossary-43.svg",
+      "alt": "RO: Repair Order; Unit and complaint; Repair documentation. Concept illustration."
     },
     {
       "term": "Road call",
-      "definition": "Service dispatched to vehicle away from shop"
+      "definition": "Service dispatched to vehicle away from shop",
+      "image": "assets/lessons/glossary-44.svg",
+      "alt": "Road call: Vehicle away from shop; Service dispatched; Location and equipment. Concept illustration."
     },
     {
       "term": "SCR",
-      "definition": "Selective Catalytic Reduction"
+      "definition": "Selective Catalytic Reduction",
+      "image": "assets/lessons/glossary-45.svg",
+      "alt": "SCR: Selective Catalytic Reduction; DEF supports the process; NOx emissions control. Concept illustration."
     },
     {
       "term": "Steer axle",
-      "definition": "Axle used for steering"
+      "definition": "Axle used for steering",
+      "image": "assets/lessons/glossary-46.svg",
+      "alt": "Steer axle: Steering axle; Normally front tractor axle; Identify by function. Concept illustration."
     },
     {
       "term": "Tandem",
-      "definition": "Two axles grouped together"
+      "definition": "Two axles grouped together",
+      "image": "assets/lessons/glossary-47.svg",
+      "alt": "Tandem: Two grouped axles; Vehicle weight distribution; Axle function varies. Concept illustration."
     },
     {
       "term": "TMS",
-      "definition": "Transportation Management System"
+      "definition": "Transportation Management System",
+      "image": "assets/lessons/glossary-48.svg",
+      "alt": "TMS: Transportation Management System; Transportation operations; Software system. Concept illustration."
     },
     {
       "term": "Unit number",
-      "definition": "Internal fleet equipment ID"
+      "definition": "Internal fleet equipment ID",
+      "image": "assets/lessons/glossary-49.svg",
+      "alt": "Unit number: Internal equipment ID; Fleet-assigned identifier; Distinct from VIN. Concept illustration."
     },
     {
       "term": "VIN",
-      "definition": "Vehicle Identification Number"
+      "definition": "Vehicle Identification Number",
+      "image": "assets/lessons/glossary-50.svg",
+      "alt": "VIN: Vehicle Identification Number; Manufacturer-assigned ID; Identify exact equipment. Concept illustration."
     },
     {
       "term": "WO",
-      "definition": "Work Order"
+      "definition": "Work Order",
+      "image": "assets/lessons/glossary-51.svg",
+      "alt": "WO: Work Order; Complaint / diagnosis / work; Dates and authorization. Concept illustration."
     }
   ]
 }

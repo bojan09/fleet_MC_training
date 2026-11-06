@@ -22,3 +22,10 @@ Reviewed: Fleet_MC_Training.pdf, 23 pages, user supplied. Text is educational re
 - Real-World Scenarios: page 19
 
 Glossary: pages 20–22. Intake: page 23. Imagery extracted from supplied PDF; embedded illustrations are not verified technical diagrams. No manufacturer/model identification inferred.
+
+
+## Visual coverage update
+
+All 18 lessons show their unchanged embedded source image (assets/lessons/pdf-page-N.png) from their respective PDF page listed above. Each note now includes an original SVG concept illustration sourced from that note’s text. These are simplified educational associations, not exact component anatomy or service procedures. All 51 glossary entries have original concept illustrations, with definitions sourced from pages 20–22. Practice scenarios reuse the corresponding lesson illustration. The source PDF images are only 384 × 256 pixels; enlargement preserves the original rather than inventing detail. Some PDF artwork repeats across source pages and includes unrelated fragments or unverified example values. Original concept diagrams provide individual-topic coverage.
+
+Per-asset provenance, descriptions, rights status, and review limits are recorded in assets/manifest.json. Reproducible vector generation: scripts/build-visuals.py.

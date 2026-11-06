@@ -61,5 +61,1493 @@
     "type": "Supplied illustration",
     "rights": "User-provided material; independent redistribution rights not verified",
     "review": "Illustrative thumbnail; embedded annotations not verified"
+  },
+  {
+    "file": "assets/lessons/lesson-1-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 2",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Cab / sleeper: Driver controls; Rest compartment; Vehicle configuration. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-1-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 2",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Steer axle: Front axle; Steering function; Wheel ends & brakes. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-1-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 2",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Drive axles: Driveshaft; Differential; Powered wheels. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-1-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 2",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Fifth wheel: Tractor coupling plate; Trailer kingpin; Engagement check. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-1-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 2",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Fuel tanks / DEF tank: Diesel fuel; Separate DEF tank; Different fill points. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-1-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 2",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Unit number / VIN: Fleet unit ID; Manufacturer VIN; Match the exact vehicle. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-2.png",
+    "source": "Fleet_MC_Training.pdf, page 2",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 2: Truck Anatomy. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-2-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 3",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Engine oil: Oil sump; Moving engine parts; Lubrication & cooling. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-2-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 3",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Cooling system: Radiator & fan; Coolant circulation; Engine & hoses. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-2-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 3",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Turbocharger: Exhaust turbine; Common shaft; Intake compressor. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-2-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 3",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Belts / tensioners: Accessory pulleys; Drive belt; Belt tensioner. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-2-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 3",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Alternator / batteries: Alternator charges; Battery stores; Electrical consumers. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-2-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 3",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Transmission / driveshaft: Transmission; Driveshaft; Drive axle. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-3.png",
+    "source": "Fleet_MC_Training.pdf, page 3",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 3: Engine & Cooling. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-3-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 4",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "DPF: Exhaust enters; Soot is trapped; Regeneration is OEM-specific. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-3-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 4",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "DEF / SCR: DEF dosing; SCR catalyst; NOx reduction. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-3-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 4",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "EGR: Exhaust gas; Controlled recirculation; Intake mixture. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-3-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 4",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "ECM: Sensor inputs; Control module; Commands & fault reports. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-3-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 4",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Derate: Fault condition; Possible power limit; Record exact messages. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-3-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 4",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Never guess a repair: Warning or symptom; Qualified diagnosis; Confirmed repair scope. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-4.png",
+    "source": "Fleet_MC_Training.pdf, page 4",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 4: Emissions & Electrical. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-4-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 5",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Compressor / governor: Compressor builds air; Governor regulates; Vehicle-specific limits. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-4-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 5",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Air dryer / reservoirs: Air supply; Dryer removes moisture; Reservoir stores air. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-4-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 5",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Foot valve / relay valves: Driver brake demand; Control & relay valves; Air to brake chambers. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-4-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 5",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Brake chambers: Air pressure; Diaphragm & pushrod; Mechanical brake force. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-4-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 5",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Spring parking brakes: Spring stores energy; Air releases parking brake; Trained service only. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-4-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 5",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "ABS: Wheel-speed sensors; ABS control; Wheel-lock management. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-4-7.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 5",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Low-air warning: Low air report; Safe-stop guidance; Qualified brake service. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-5.png",
+    "source": "Fleet_MC_Training.pdf, page 5",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 5: Air Brakes. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-5-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 6",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Air suspension: Air springs; Height control; Shocks & linkages. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-5-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 6",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Leaf springs: Spring pack; Hangers; Axle support. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-5-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 6",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Steer / drive / trailer axle: Steer: steering; Drive: powered; Trailer: supports trailer. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-5-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 6",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Tandem axles: Two adjacent axles; Weight distribution; Function varies. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-5-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 6",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Lift axle: Auxiliary axle; Raised or lowered; Load & rules determine use. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-5-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 6",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Differential: Input torque; Differential gears; Axle shafts. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-5-7.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 6",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Wheel end: Hub & bearings; Seal & lubricant; Heat or leak report. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-6.png",
+    "source": "Fleet_MC_Training.pdf, page 6",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 6: Suspension & Axles. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-6-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 7",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Steer tires: Front steering axle; Often rib-oriented; Application approval. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-6-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 7",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Drive tires: Powered axles; Often traction tread; Duty & season. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-6-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 7",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Trailer tires: Trailer axles; Load & inflation; Tread & sidewall checks. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-6-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 7",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Pressure: Measure pressure; Use load guidance; Do not judge by appearance. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-6-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 7",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Load rating: Actual axle load; Tire capacity; Wheel capacity. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-6-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 7",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Dual tires: Paired tires; Matched dimensions; Proper inflation. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-7.png",
+    "source": "Fleet_MC_Training.pdf, page 7",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 7: Tires By Position. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-7-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 8",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Center wear: Center tread wear; Pressure history; Qualified assessment. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-7-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 8",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Both shoulders: Both tread edges; Inflation & load clues; Not a final diagnosis. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-7-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 8",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "One-sided wear: One tread edge; Alignment or axle clues; Inspect related systems. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-7-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 8",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Cupping / scalloping: Repeated low spots; Wheel-end & suspension; Professional assessment. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-7-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 8",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Flat spots: Localized tread flattening; Operating history; Qualified inspection. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-7-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 8",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Bulge / exposed cords: Sidewall deformation; Exposed reinforcement; Qualified tire service. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-7-7.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 8",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Coordinator action: Position & tire size; Photos & measurements; Vendor findings. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-8.png",
+    "source": "Fleet_MC_Training.pdf, page 8",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 8: Tire Wear Patterns. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-8-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 9",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Dry van: Enclosed freight body; Doors & structure; Running gear. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-8-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 9",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Reefer: Insulated body; Refrigeration unit; Mechanical + cooling service. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-8-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 9",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Flatbed / step deck: Open deck; Structure; Securement hardware. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-8-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 9",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Tanker: Specialized vessel; Load compatibility; Specialist service. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-8-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 9",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Container chassis: Container frame; Twist locks; Running gear. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-8-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 9",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "53-foot trailer: Length measurement; Not a trailer type; Confirm configuration. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-9.png",
+    "source": "Fleet_MC_Training.pdf, page 9",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 9: Trailer Types. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-9-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 10",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Fifth wheel / kingpin: Tractor fifth wheel; Trailer kingpin; Qualified engagement check. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-9-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 10",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Glad hands: Service air line; Emergency / supply line; Correct coupling. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-9-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 10",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Electrical pigtail: Tractor electrical supply; Trailer connector; Lighting & circuits. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-9-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 10",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Landing gear: Trailer support legs; Feet & bracing; Uncoupled support. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-9-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 10",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Trailer tandem slider: Sliding axle assembly; Positioning rails; Secured locking mechanism. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-9-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 10",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Coordinator action: Report & photos; On-site qualified inspection; Document findings. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-10.png",
+    "source": "Fleet_MC_Training.pdf, page 10",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 10: Coupling System. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-10-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 11",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Refrigeration unit: Refrigeration equipment; Insulated cargo space; Required setpoint. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-10-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 11",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Setpoint vs actual: Requested setpoint; Displayed actual reading; Record separately. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-10-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 11",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Fuel / electrical: Reefer fuel; Electrical supply; Running mode & alarms. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-10-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 11",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Continuous / start-stop: Continuous operation; Cycling operation; Cargo / shipper instructions. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-10-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 11",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Alarm code: Exact alarm code; Reefer make & model; Specialist diagnosis. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-10-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 11",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Cargo risk: Temperature excursion; Notify operations; Authorized cargo response. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-11.png",
+    "source": "Fleet_MC_Training.pdf, page 11",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 11: Reefer Systems. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-11-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 12",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "DOT / FMCSA: US DOT; FMCSA; Applicable safety framework. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-11-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 12",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Pre-trip inspection: Before operation; Safe operating condition; Driver responsibility. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-11-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 12",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "DVIR: Defect report; Repair follow-up; Operation-specific rules. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-11-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 12",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Periodic inspection: Qualifying inspection; Applicable periodic interval; Retain required evidence. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-11-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 12",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Roadside inspection: Driver; Vehicle; Required paperwork. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-11-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 12",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "OOS: Out of service; Correct relevant defects; Required documented clearance. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-11-7.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 12",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Documentation: Inspection records; Repair records; Applicable rules & fleet policy. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-12.png",
+    "source": "Fleet_MC_Training.pdf, page 12",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 12: DOT & FMCSA. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-12-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 13",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Brakes: Hoses & air pressure; Leaks & condition; Qualified brake inspection. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-12-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 13",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Tires / wheels: Tires & sidewalls; Wheel fasteners; Wheel-end leaks. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-12-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 13",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Steering / suspension: Steering linkage; Suspension components; Damage or excessive wear. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-12-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 13",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Lighting: Required lamps; Reflectors & markings; Electrical connections. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-12-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 13",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Coupling: Fifth wheel & kingpin; Mountings; Connection security. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-12-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 13",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Leaks / structural: Fluid leak report; Frame condition; Qualified assessment. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-12-7.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 13",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Escalation: Active OOS condition; Repairs & evidence; Documented clearance. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-13.png",
+    "source": "Fleet_MC_Training.pdf, page 13",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 13: Inspection Priorities. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-13-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 14",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Check Engine / MIL: Engine / emissions report; Exact active code; Vehicle behavior. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-13-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 14",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Stop Engine / red warning: Red warning report; OEM safe-stop guidance; Qualified assessment. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-13-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 14",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Low oil pressure: Oil-pressure warning; Engine protection risk; Assessment before operation. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-13-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 14",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "High coolant temperature: Temperature warning; Overheating risk; Safe stop & OEM guidance. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-13-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 14",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "ABS: ABS fault indication; Record lamp status; Qualified evaluation. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-13-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 14",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "DPF / DEF: Exact dashboard message; Fluid level; Derate status. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-13-7.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 14",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "DTC / SPN / FMI: Exact fault code; Vehicle identification; OEM diagnostic information. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-14.png",
+    "source": "Fleet_MC_Training.pdf, page 14",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 14: Fault Codes & Lamps. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-14-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 15",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Location: Highway & mile marker; Travel direction; Safe location / GPS pin. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-14-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 15",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Identification: Driver & callback; Tractor / trailer units; VIN if needed. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-14-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 15",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Symptoms: What happened & when; Messages & codes; Sounds or leaks. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-14-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 15",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Safety: Safe location?; Traffic / smoke / injury?; Active OOS status?. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-14-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 15",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Mobility: Can it move safely?; Temperature-sensitive load?; Qualified assessment. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-14-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 15",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Evidence: Relevant photos; Dashboard messages; Position & service history. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-14-7.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 15",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Avoid: No warning bypass; No unsafe roadside repair; Qualified service. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-15.png",
+    "source": "Fleet_MC_Training.pdf, page 15",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 15: Driver Intake. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-15-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 16",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "1. Triage: Protect driver; Classify urgency; Emergency help if needed. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-15-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 16",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "2. Vendor selection: Exact equipment; Appropriate capability; Mobile / tow / shop. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-15-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 16",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "3. Confirm ETA: Dispatch ETA; Driver update; Operations update. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-15-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 16",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "4. Approve scope: Diagnosis; Labor & parts estimate; Fleet authorization. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-15-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 16",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "5. Monitor: Arrival & diagnosis; Parts / repair progress; Updated ETR. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-15-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 16",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "6. Verify: Technician findings; Tests & invoice; Required clearance. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-15-7.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 16",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "7. Close: Work order; Downtime & cost; Dispatch availability. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-16.png",
+    "source": "Fleet_MC_Training.pdf, page 16",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 16: Breakdown Workflow. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-16-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 17",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "PM A/B/C: Fleet-defined tiers; OEM schedule; Not universal DOT levels. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-16-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 17",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Trigger: Miles / engine hours; Calendar time; Duty cycle / condition. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-16-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 17",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "WO / RO: Unit & complaint; Diagnosis & work; Parts / dates / approval. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-16-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 17",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "PM forecast: Current reading; Expected utilization; Schedule shop time. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-16-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 17",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Backlog: Safety-critical defects; Prioritized work; Convenience repairs. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-16-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 17",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Return to service: Work & evidence; Driver notification; Dispatch release. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-16-7.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 17",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Record quality: Who approved?; What & when?; Who performed work?. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-17.png",
+    "source": "Fleet_MC_Training.pdf, page 17",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 17: PM & Work Orders. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-17-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 18",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Vendor evaluation: Capability & location; Response & quality; Warranty / certifications. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-17-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 18",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Estimate review: Labor & diagnosis; Parts & supplies; Taxes / towing / total. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-17-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 18",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Warranty: OEM coverage; Part coverage; Prior repair warranty. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-17-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 18",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Downtime: Unavailable time; Waiting / parts / repair; Released time. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-17-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 18",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "PM compliance: Completed scheduled PMs; PMs due in same window; Completed \u00f7 due. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-17-6.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 18",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Road call rate: Roadside events; Defined exposure period; Document denominator. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-17-7.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 18",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Cost per mile: Maintenance cost; Miles in same period; Cost \u00f7 miles. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-18.png",
+    "source": "Fleet_MC_Training.pdf, page 18",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 18: Vendors, Costs & KPIs. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/lesson-18-1.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 19",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Scenario A: Low air warning: Safe stop & location; Qualified brake service; No continued driving. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-18-2.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 19",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Scenario B: Reefer high temp: Setpoint / actual / alarms; Cargo risk & location; Reefer specialist. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-18-3.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 19",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Scenario C: PM overdue: Fleet / OEM interval; Last service & planned miles; Schedule approved service. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-18-4.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 19",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Scenario D: Tire sidewall bulge: Position / photo / size; Qualified tire service; Assess OOS implications. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/lesson-18-5.svg",
+    "source": "Original SVG concept illustration based on Fleet_MC_Training.pdf, page 19",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified relationships; not a mechanical service drawing",
+    "alt": "Scenario E: OOS at roadside: Inspection report; Required repairs; Evidence before release. Simplified concept illustration."
+  },
+  {
+    "file": "assets/lessons/pdf-page-19.png",
+    "source": "Fleet_MC_Training.pdf, page 19",
+    "type": "Original supplied PDF illustration",
+    "rights": "User-provided material; independent redistribution rights not verified",
+    "review": "Shown unchanged as source artwork; embedded labels and example values are not independently verified",
+    "alt": "Original illustration embedded on PDF page 19: Real-World Scenarios. Supplied artwork with unverified embedded labels."
+  },
+  {
+    "file": "assets/lessons/glossary-1.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "ABS: Wheel-speed monitoring; Wheel-lock control; Faults require evaluation. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-2.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "BOL: Shipping document; Freight information; Bill of Lading. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-3.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Bobtail: Tractor only; No trailer attached; Equipment configuration. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-4.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Breakdown: Interrupted operation; Driver report; Service coordination. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-5.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "CDL: Commercial driving; Driver license; Applicable vehicle class. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-6.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "CSA: Compliance; Safety; Accountability. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-7.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "CVSA: Commercial vehicles; Inspection standards; Safety alliance. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-8.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Deadhead: Vehicle movement; Without a paying load; Trip context. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-9.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "DEF: Diesel exhaust fluid; Separate from diesel; Supports SCR aftertreatment. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-10.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "DEL: Delivery; Receiving location; Dispatch abbreviation. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-11.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Detention: Shipper / receiver; Excess waiting; Record relevant times. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-12.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "DOT: Department of Transportation; US transportation framework; Confirm applicable rules. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-13.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "DPF: Diesel particulate filter; Traps soot; OEM-specific regeneration. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-14.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Drop & Hook: Drop one trailer; Connect another trailer; No live loading required. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-15.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "DTC: Diagnostic Trouble Code; Record exact code; Not a standalone diagnosis. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-16.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "DVIR: Driver Vehicle Inspection Report; Document reported defects; Applicable reporting rules. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-17.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "ECM: Electronic Control Module; Receives sensor information; Controls engine functions. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-18.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "ELD: Electronic Logging Device; Driver activity records; Hours-of-service context. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-19.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "ETA: Estimated Time of Arrival; Communicate the estimate; Update if conditions change. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-20.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "ETR: Repair / return estimate; Confirm intended meaning; Update during service. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-21.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "FCFS: First Come; First Served; Queue order. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-22.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "FMCSA: Federal Motor Carrier; Safety Administration; US motor carrier safety. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-23.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "GAWR: Gross Axle Weight Rating; Manufacturer axle rating; Distinguish actual weight. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-24.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "GCWR: Gross Combination Weight Rating; Combination rating; Tractor and trailer context. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-25.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Glad hands: Air-line connectors; Service circuit; Emergency / supply circuit. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-26.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "GVWR: Gross Vehicle Weight Rating; Manufacturer vehicle rating; Distinguish actual weight. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-27.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "HOS: Hours of Service; Driving / duty time; Applicable operating rules. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-28.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Inbound: Coming into a facility; Arrival direction; Facility perspective. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-29.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Kingpin: Trailer coupling pin; Engages tractor fifth wheel; Qualified engagement check. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-30.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Layover: Extended wait; Between assignments; Dispatch context. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-31.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Live load: Freight being loaded; Driver waits; Loading operation. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-32.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Live unload: Freight being unloaded; Driver waits; Receiving operation. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-33.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Loaded miles: Distance traveled; Freight on board; Trip measurement. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-34.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "OOS: Out of Service; Correct relevant conditions; Clearance before operation. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-35.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "OEM: Original Equipment Manufacturer; Vehicle / component maker; Model-specific information. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-36.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Outbound: Leaving a facility; Departure direction; Facility perspective. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-37.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "PM: Preventive Maintenance; Planned service; Fleet / OEM schedules. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-38.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "PM A/B/C: Fleet-specific service levels; Not universal DOT categories; Use approved schedules. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-39.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "POD: Proof of Delivery; Delivery confirmation; Dispatch documentation. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-40.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Pre-trip: Before operation; Inspect vehicle condition; Follow applicable rules. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-41.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "PU: Pickup; Shipping location; Dispatch abbreviation. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-42.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Reefer: Refrigerated trailer; Or refrigeration unit; Temperature-sensitive freight. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-43.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "RO: Repair Order; Unit and complaint; Repair documentation. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-44.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Road call: Vehicle away from shop; Service dispatched; Location and equipment. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-45.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "SCR: Selective Catalytic Reduction; DEF supports the process; NOx emissions control. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-46.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Steer axle: Steering axle; Normally front tractor axle; Identify by function. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-47.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Tandem: Two grouped axles; Vehicle weight distribution; Axle function varies. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-48.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "TMS: Transportation Management System; Transportation operations; Software system. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-49.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "Unit number: Internal equipment ID; Fleet-assigned identifier; Distinct from VIN. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-50.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "VIN: Vehicle Identification Number; Manufacturer-assigned ID; Identify exact equipment. Concept illustration."
+  },
+  {
+    "file": "assets/lessons/glossary-51.svg",
+    "source": "Original SVG concept illustration based on PDF glossary, pages 20\u201322",
+    "type": "Original conceptual diagram",
+    "rights": "Created for this project",
+    "review": "Simplified educational association",
+    "alt": "WO: Work Order; Complaint / diagnosis / work; Dates and authorization. Concept illustration."
   }
 ]
