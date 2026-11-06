@@ -1,0 +1,11 @@
+# Plain static HTML/CSS/JavaScript. Publish the repository, including binary assets.
+[build]
+  publish = "."
+
+# Revalidate the HTML, content, and scripts together to avoid stale asset references.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

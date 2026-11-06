@@ -1693,5 +1693,19 @@
     "rights": "Created for this project",
     "review": "Simplified concept illustrations, not service anatomy",
     "alt": "Real-World Scenarios: illustrated overview with 5 labeled concept diagrams."
+  },
+  {
+    "file": "assets/fonts/manrope.ttf",
+    "source": "https://github.com/google/fonts/blob/main/ofl/manrope/Manrope%5Bwght%5D.ttf",
+    "type": "Font",
+    "rights": "SIL Open Font License 1.1; license included in assets/fonts",
+    "review": "Downloaded from official Google Fonts source repository"
+  },
+  {
+    "file": "assets/fonts/dm-sans.ttf",
+    "source": "https://github.com/google/fonts/blob/main/ofl/dmsans/DMSans%5Bopsz,wght%5D.ttf",
+    "type": "Font",
+    "rights": "SIL Open Font License 1.1; license included in assets/fonts",
+    "review": "Downloaded from official Google Fonts source repository"
   }
 ]

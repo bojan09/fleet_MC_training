@@ -30,3 +30,16 @@ PDF source images remain low resolution, and their embedded labels/example value
 - Browser Fullscreen API entry and exit passed in Chromium; closing the viewer passed.
 - No JavaScript errors observed; local asset/manifest and SVG syntax checks passed for 213 records.
 - Original 384×256 PDF artwork cannot be made genuinely sharp by enlarging it. Primary visuals now use scalable vector diagrams instead; source artwork remains unchanged.
+
+## Static site repair
+- All eight existing module assets loaded locally and under a simulated `/training/` deployment subpath.
+- Application asset URLs now resolve from app.js rather than the current document route.
+- Simulated missing card image displayed an explicit fallback; simulated content failure recovered through Try again.
+- Previous-lesson navigation, active navigation state, and skip-to-content behavior passed.
+- No horizontal overflow at viewport widths 320, 390, 768, and 1440px.
+- Manrope and DM Sans loaded from local font files; their SIL OFL licenses are bundled.
+- Lesson/glossary/practice and full-screen viewer regression checks passed locally.
+- Netlify configuration parses and explicitly publishes the repository root; HTML, scripts, and JSON revalidate to reduce stale-content mismatches.
+- Local static asset manifest validation and JavaScript syntax checks passed; no browser JavaScript errors observed.
+
+Outstanding: requests to the live Netlify host, Wikimedia Commons API, and Wikimedia image host still receive proxy tunnel 403 denials from this task's enforced network policy. The saved draft domain additions have not become active. These local checks do not establish that the live Netlify site redeployed or that its specific image failures are resolved. High-resolution real-photo replacement is unfinished; existing PDF artwork and diagrams are not claimed as photographs. Additional GitHub-hosted photo searches did not identify a suitable set of photographs with verified reuse rights.
