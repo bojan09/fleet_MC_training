@@ -1,0 +1,563 @@
+{
+  "modules": [
+    {
+      "id": "module-1",
+      "title": "Truck anatomy",
+      "description": "Understand the machine. Learn the systems that keep a rig moving.",
+      "lessons": [
+        0,
+        1,
+        2
+      ],
+      "category": "Equipment",
+      "image": "assets/module-1.png"
+    },
+    {
+      "id": "module-2",
+      "title": "Air brakes & axles",
+      "description": "Follow the air supply, suspension, and running gear.",
+      "lessons": [
+        3,
+        4
+      ],
+      "category": "Equipment",
+      "image": "assets/module-2.png"
+    },
+    {
+      "id": "module-3",
+      "title": "Tires & wheels",
+      "description": "Recognize positions, wear patterns, and warning signs.",
+      "lessons": [
+        5,
+        6
+      ],
+      "category": "Equipment",
+      "image": "assets/module-3.png"
+    },
+    {
+      "id": "module-4",
+      "title": "Trailers & reefers",
+      "description": "Get familiar with trailer types, connections, and cold-chain basics.",
+      "lessons": [
+        7,
+        8,
+        9
+      ],
+      "category": "Equipment",
+      "image": "assets/module-4.png"
+    },
+    {
+      "id": "module-5",
+      "title": "DOT & compliance",
+      "description": "Understand inspections, documentation, and out-of-service decisions.",
+      "lessons": [
+        10,
+        11
+      ],
+      "category": "Operations",
+      "image": "assets/module-5.png"
+    },
+    {
+      "id": "module-6",
+      "title": "Faults & warnings",
+      "description": "Turn warning messages into clear, actionable reports.",
+      "lessons": [
+        12
+      ],
+      "category": "Operations",
+      "image": "assets/module-6.png"
+    },
+    {
+      "id": "module-7",
+      "title": "Roadside breakdowns",
+      "description": "From the first driver call to a documented return to service.",
+      "lessons": [
+        13,
+        14,
+        17
+      ],
+      "category": "Operations",
+      "image": "assets/module-7.png"
+    },
+    {
+      "id": "module-8",
+      "title": "Planning & costs",
+      "description": "Plan PMs, evaluate vendors, and understand maintenance costs.",
+      "lessons": [
+        15,
+        16
+      ],
+      "category": "Operations",
+      "image": "assets/module-8.png"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "title": "Truck Anatomy",
+      "subtitle": "Identify the main parts of a North American tractor",
+      "notes": [
+        "Cab / sleeper Driver controls and rest compartment; identify the exact vehicle and configuration before dispatching service.",
+        "Steer axle Front axle provides steering; inspect tires, steering linkage, suspension, wheel ends and brakes.",
+        "Drive axles Transmit power through differentials and axle shafts; look for leaks, abnormal noise and vibration.",
+        "Fifth wheel Tractor coupling plate that locks around the trailer kingpin; coupling integrity is safety critical.",
+        "Fuel tanks / DEF tank Diesel fuel and diesel exhaust fluid are separate; never confuse fill points.",
+        "Unit number / VIN Fleet unit ID is an internal identifier; VIN is the manufacturer-assigned vehicle identifier."
+      ],
+      "page": 2
+    },
+    {
+      "id": "lesson-2",
+      "title": "Engine & Cooling",
+      "subtitle": "Recognize the major diesel engine support systems",
+      "notes": [
+        "Engine oil Lubricates and cools moving parts; verify level and leak reports against OEM procedures.",
+        "Cooling system Radiator, coolant, water pump, thermostat, fan and hoses regulate temperature.",
+        "Turbocharger Uses exhaust energy to boost intake air; unusual whine or power loss requires diagnosis.",
+        "Belts / tensioners Drive accessories; damaged belts can disable cooling or charging.",
+        "Alternator / batteries Charge and supply electrical power; distinguish no-crank, slow-crank and charging faults.",
+        "Transmission / driveshaft Carry power to drive axles; leaks, harsh shifting and vibration require shop evaluation."
+      ],
+      "page": 3
+    },
+    {
+      "id": "lesson-3",
+      "title": "Emissions & Electrical",
+      "subtitle": "Understand common aftertreatment and electronic reports",
+      "notes": [
+        "DPF Diesel particulate filter traps soot; regeneration management is vehicle-specific.",
+        "DEF / SCR Diesel exhaust fluid supports selective catalytic reduction to control NOx emissions.",
+        "EGR Exhaust gas recirculation reduces NOx formation; faults may affect power and emissions.",
+        "ECM Electronic control module monitors and controls engine functions; technicians read fault codes.",
+        "Derate Engine control may limit performance after certain faults; document dashboard messages and symptoms.",
+        "Never guess a repair A dashboard light alone does not prove which component has failed."
+      ],
+      "page": 4
+    },
+    {
+      "id": "lesson-4",
+      "title": "Air Brakes",
+      "subtitle": "From compressor to service brakes",
+      "notes": [
+        "Compressor / governor Build and regulate compressed-air supply; pressure specifications vary by vehicle.",
+        "Air dryer / reservoirs Dryer removes moisture; reservoirs store compressed air for braking systems.",
+        "Foot valve / relay valves Control delivery of air to service brake chambers.",
+        "Brake chambers Convert air pressure into mechanical force at foundation brakes.",
+        "Spring parking brakes Spring force applies parking/emergency braking when air is released; never service without training.",
+        "ABS Helps control wheel lockup; warning lamps indicate a fault requiring inspection.",
+        "Low-air warning Treat as urgent; driver should follow safe stopping and operating procedures."
+      ],
+      "page": 5
+    },
+    {
+      "id": "lesson-5",
+      "title": "Suspension & Axles",
+      "subtitle": "Load support, handling and driveline identification",
+      "notes": [
+        "Air suspension Air springs, leveling valve, shocks and linkages help manage ride height and load.",
+        "Leaf springs Steel spring packs and hangers support load; cracks or displaced components are serious.",
+        "Steer / drive / trailer axle Distinguish by function, not merely by the number of wheels.",
+        "Tandem axles Two closely spaced axles that distribute vehicle weight.",
+        "Lift axle May raise when permitted and appropriate for vehicle/load configuration.",
+        "Differential Distributes torque to drive wheels; leaks and abnormal noises need inspection.",
+        "Wheel end Hub, bearings, seals and lubrication; overheating or leaking seals warrant prompt attention."
+      ],
+      "page": 6
+    },
+    {
+      "id": "lesson-6",
+      "title": "Tires By Position",
+      "subtitle": "Correct tires matter for steering, traction and load",
+      "notes": [
+        "Steer tires Usually rib-oriented tread on front steering axle; steering stability and correct sizing are critical.",
+        "Drive tires Often lug or traction patterns on powered axles; application and season influence selection.",
+        "Trailer tires Designed for trailer axles; check loading, inflation, tread and sidewall condition.",
+        "Pressure Use fleet/OEM and tire-load guidance, measured appropriately; do not guess by appearance.",
+        "Load rating Tire and wheel capacities must meet actual axle loading and applicable requirements.",
+        "Dual tires Matched dimensions and proper inflation are important to avoid uneven load sharing."
+      ],
+      "page": 7
+    },
+    {
+      "id": "lesson-7",
+      "title": "Tire Wear Patterns",
+      "subtitle": "Use wear patterns as clues, not final diagnoses",
+      "notes": [
+        "Center wear Can indicate overinflation or operating conditions; inspect pressure history and tread.",
+        "Both shoulders Can indicate underinflation or overloading.",
+        "One-sided wear Can indicate alignment, suspension or axle issues.",
+        "Cupping / scalloping May relate to shocks, balance, wheel-end or suspension issues.",
+        "Flat spots May follow wheel lockup or extended stationary loading.",
+        "Bulge / exposed cords Potential serious tire damage; arrange qualified inspection before use.",
+        "Coordinator action Capture tire position, size, DOT tire date code, photos, tread depth and vendor findings."
+      ],
+      "page": 8
+    },
+    {
+      "id": "lesson-8",
+      "title": "Trailer Types",
+      "subtitle": "Match service provider to the actual trailer equipment",
+      "notes": [
+        "Dry van Enclosed general-freight trailer; inspect doors, hinges, lights, brakes, tires and structure.",
+        "Reefer Insulated trailer with refrigeration unit; mechanical and refrigeration systems both matter.",
+        "Flatbed / step deck Open equipment for large loads; check structural components and securement hardware.",
+        "Tanker Specialized vessel; inspections and repair may require specialist certification.",
+        "Container chassis Frame carrying shipping containers; verify twist locks, frame and running gear.",
+        "53-foot trailer Common North American length, not a trailer type; confirm dimensions and configuration."
+      ],
+      "page": 9
+    },
+    {
+      "id": "lesson-9",
+      "title": "Coupling System",
+      "subtitle": "Understand tractor-to-trailer connections",
+      "notes": [
+        "Fifth wheel / kingpin Coupling plate and trailer pin form the mechanical connection; trained personnel verify proper engagement.",
+        "Glad hands Connect tractor/trailer air lines; service and emergency circuits must be correct.",
+        "Electrical pigtail Connects trailer lighting and electrical circuits.",
+        "Landing gear Supports uncoupled trailer; bent legs, damaged feet and gear failures need service.",
+        "Trailer tandem slider Allows repositioning axles for weight distribution; locks must be secured.",
+        "Coordinator action When coupling trouble is reported, request photos and qualified on-site inspection; do not remotely certify a connection."
+      ],
+      "page": 10
+    },
+    {
+      "id": "lesson-10",
+      "title": "Reefer Systems",
+      "subtitle": "Protect temperature-sensitive loads",
+      "notes": [
+        "Refrigeration unit Independent or electrically powered system maintains setpoint under operating conditions.",
+        "Setpoint vs actual Record requested temperature and displayed supply/return or box temperatures separately.",
+        "Fuel / electrical Check reefer fuel level, power supply, alarm state and running mode.",
+        "Continuous / start-stop Modes depend on cargo requirements and shipper instructions.",
+        "Alarm code Record exact manufacturer code, unit model and symptoms; route to qualified reefer provider.",
+        "Cargo risk Immediately inform operations of temperature excursions; do not change setpoint without authorization."
+      ],
+      "page": 11
+    },
+    {
+      "id": "lesson-11",
+      "title": "DOT & FMCSA",
+      "subtitle": "Know the inspection and recordkeeping framework",
+      "notes": [
+        "DOT / FMCSA US Department of Transportation / Federal Motor Carrier Safety Administration.",
+        "Pre-trip inspection Driver must be satisfied the vehicle is in safe operating condition before driving.",
+        "DVIR Driver Vehicle Inspection Report; applicability and reporting rules depend on operation and defects.",
+        "Periodic inspection Most regulated commercial vehicles need qualifying periodic inspection at least every 12 months.",
+        "Roadside inspection Enforcement may inspect driver, vehicle and paperwork under applicable standards.",
+        "OOS Out of Service means operation is prohibited until relevant conditions are corrected.",
+        "Documentation Maintain inspection and repair records required by applicable rules and fleet policy."
+      ],
+      "page": 12
+    },
+    {
+      "id": "lesson-12",
+      "title": "Inspection Priorities",
+      "subtitle": "Safety-critical checks and coordinator decisions",
+      "notes": [
+        "Brakes Condition, adjustment, leaks, hoses and air-pressure issues.",
+        "Tires / wheels Tread, inflation, sidewalls, wheel fasteners, cracks and wheel-end leaks.",
+        "Steering / suspension Loose, broken, missing or excessively worn components.",
+        "Lighting Required lamps, reflectors, conspicuity markings and electrical connections.",
+        "Coupling Fifth wheel, kingpin, safety devices, mounting and connection security.",
+        "Leaks / structural Fluid leaks, frame issues, securement and other applicable defects.",
+        "Escalation Never dispatch a vehicle under an active OOS condition; obtain documented clearance."
+      ],
+      "page": 13
+    },
+    {
+      "id": "lesson-13",
+      "title": "Fault Codes & Lamps",
+      "subtitle": "Recognize urgency without attempting remote diagnosis",
+      "notes": [
+        "Check Engine / MIL Engine or emissions-related fault; capture active code and vehicle behavior.",
+        "Stop Engine / red warning Potentially severe condition; instruct driver to follow OEM safe-stop guidance.",
+        "Low oil pressure Serious engine protection warning; avoid continued operation until assessed.",
+        "High coolant temperature Overheating risk; driver should stop safely and follow manufacturer guidance.",
+        "ABS Braking control fault; service braking may remain but system needs evaluation.",
+        "DPF / DEF Aftertreatment warning; capture exact message, fluid level and derate status.",
+        "DTC / SPN / FMI Fault-code formats vary; technicians use diagnostic tools and OEM service information."
+      ],
+      "page": 14
+    },
+    {
+      "id": "lesson-14",
+      "title": "Driver Intake",
+      "subtitle": "Questions that make a road call actionable",
+      "notes": [
+        "Location Exact safe location, highway/mile marker, direction, GPS pin if available.",
+        "Identification Driver name/callback, tractor unit, trailer unit, VIN if requested.",
+        "Symptoms What happened, when, warning messages, fault codes, noises and leaks.",
+        "Safety Is the driver in a safe location? Any traffic hazard, smoke, injury or active OOS status?",
+        "Mobility Can the unit move safely? Is the load temperature-sensitive?",
+        "Evidence Photos, dashboard display, tire position and previous repair history.",
+        "Avoid Do not tell a driver to bypass warnings or attempt unsafe roadside mechanical repairs."
+      ],
+      "page": 15
+    },
+    {
+      "id": "lesson-15",
+      "title": "Breakdown Workflow",
+      "subtitle": "From initial report to documented return to service",
+      "notes": [
+        "1. Triage Classify safety urgency and protect driver; call emergency services when warranted.",
+        "2. Vendor selection Find suitable mobile mechanic, tow provider or repair shop for exact equipment.",
+        "3. Confirm ETA Obtain dispatch ETA and communicate changes to operations and driver.",
+        "4. Approve scope Request diagnosis, labor estimate, parts and approval per fleet limits.",
+        "5. Monitor Track arrival, diagnosis, repair progress, parts delays and updated ETR.",
+        "6. Verify Get invoice, technician findings, test results and required compliance clearance.",
+        "7. Close Update WO, downtime, cost center and fleet/dispatch availability."
+      ],
+      "page": 16
+    },
+    {
+      "id": "lesson-16",
+      "title": "PM & Work Orders",
+      "subtitle": "Plan maintenance instead of reacting to failures",
+      "notes": [
+        "PM A/B/C Fleet-defined service tiers, not universal DOT categories; use company/OEM schedules.",
+        "Trigger Miles, engine hours, calendar time, duty cycle or condition monitoring.",
+        "WO / RO Work Order / Repair Order: unit, complaint, diagnosis, labor, parts, dates and approval.",
+        "PM forecast Use odometer/hours and forecasted utilization to schedule shop time.",
+        "Backlog Prioritize safety-critical defects before convenience repairs.",
+        "Return to service Confirm work completion, inspection evidence, driver notification and dispatch release.",
+        "Record quality Record who approved, what was performed, when and by whom."
+      ],
+      "page": 17
+    },
+    {
+      "id": "lesson-17",
+      "title": "Vendors, Costs & KPIs",
+      "subtitle": "Make repair decisions with evidence",
+      "notes": [
+        "Vendor evaluation Capability, location, response time, certifications, warranty and quality.",
+        "Estimate review Compare diagnostic fee, labor hours/rate, parts, shop supplies, taxes and towing.",
+        "Warranty Check OEM, part and repair warranty eligibility before authorizing payment.",
+        "Downtime Measure from unavailable to released; distinguish waiting, repair and parts delay.",
+        "PM compliance Completed scheduled PMs divided by PMs due, with clear time window.",
+        "Road call rate Roadside events per distance, vehicle or operating period.",
+        "Cost per mile Maintenance cost divided by miles over same period; document exclusions."
+      ],
+      "page": 18
+    },
+    {
+      "id": "lesson-18",
+      "title": "Real-World Scenarios",
+      "subtitle": "Practice translating driver reports into next steps",
+      "notes": [
+        "Scenario A: Low air warning Driver reports repeated low air warning. Confirm safe stop and location; coordinate qualified brake-system service; do not authorize continued driving.",
+        "Scenario B: Reefer high temp Record setpoint, actual temperatures, alarms, cargo type and location; escalate cargo risk and dispatch reefer specialist.",
+        "Scenario C: PM overdue Review OEM/fleet interval, last service and planned miles; arrange slot before exceeding the approved maintenance window.",
+        "Scenario D: Tire sidewall bulge Record axle and position, photo, size and location; arrange qualified tire service and assess OOS implications.",
+        "Scenario E: OOS at roadside Record inspection report, exact defects and required repairs; obtain documentation before release."
+      ],
+      "page": 19
+    }
+  ],
+  "glossary": [
+    {
+      "term": "ABS",
+      "definition": "Anti-lock Braking System"
+    },
+    {
+      "term": "BOL",
+      "definition": "Bill of Lading"
+    },
+    {
+      "term": "Bobtail",
+      "definition": "Tractor without trailer attached"
+    },
+    {
+      "term": "Breakdown",
+      "definition": "Failure interrupting normal operation"
+    },
+    {
+      "term": "CDL",
+      "definition": "Commercial Driver License"
+    },
+    {
+      "term": "CSA",
+      "definition": "Compliance, Safety, Accountability program"
+    },
+    {
+      "term": "CVSA",
+      "definition": "Commercial Vehicle Safety Alliance"
+    },
+    {
+      "term": "Deadhead",
+      "definition": "Driving without a paying load"
+    },
+    {
+      "term": "DEF",
+      "definition": "Diesel Exhaust Fluid"
+    },
+    {
+      "term": "DEL",
+      "definition": "Delivery"
+    },
+    {
+      "term": "Detention",
+      "definition": "Excess waiting at a shipper or receiver"
+    },
+    {
+      "term": "DOT",
+      "definition": "Department of Transportation"
+    },
+    {
+      "term": "DPF",
+      "definition": "Diesel Particulate Filter"
+    },
+    {
+      "term": "Drop & Hook",
+      "definition": "Exchange trailers without live loading"
+    },
+    {
+      "term": "DTC",
+      "definition": "Diagnostic Trouble Code"
+    },
+    {
+      "term": "DVIR",
+      "definition": "Driver Vehicle Inspection Report"
+    },
+    {
+      "term": "ECM",
+      "definition": "Electronic Control Module"
+    },
+    {
+      "term": "ELD",
+      "definition": "Electronic Logging Device"
+    },
+    {
+      "term": "ETA",
+      "definition": "Estimated Time of Arrival"
+    },
+    {
+      "term": "ETR",
+      "definition": "Estimated Time of Repair or Return (confirm usage)"
+    },
+    {
+      "term": "FCFS",
+      "definition": "First Come, First Served"
+    },
+    {
+      "term": "FMCSA",
+      "definition": "Federal Motor Carrier Safety Administration"
+    },
+    {
+      "term": "GAWR",
+      "definition": "Gross Axle Weight Rating"
+    },
+    {
+      "term": "GCWR",
+      "definition": "Gross Combination Weight Rating"
+    },
+    {
+      "term": "Glad hands",
+      "definition": "Pneumatic air-line coupling connectors"
+    },
+    {
+      "term": "GVWR",
+      "definition": "Gross Vehicle Weight Rating"
+    },
+    {
+      "term": "HOS",
+      "definition": "Hours of Service"
+    },
+    {
+      "term": "Inbound",
+      "definition": "Coming into a facility"
+    },
+    {
+      "term": "Kingpin",
+      "definition": "Trailer pin that engages fifth wheel"
+    },
+    {
+      "term": "Layover",
+      "definition": "Extended wait between assignments"
+    },
+    {
+      "term": "Live load",
+      "definition": "Loading while driver waits"
+    },
+    {
+      "term": "Live unload",
+      "definition": "Unloading while driver waits"
+    },
+    {
+      "term": "Loaded miles",
+      "definition": "Distance traveled with freight"
+    },
+    {
+      "term": "OOS",
+      "definition": "Out of Service"
+    },
+    {
+      "term": "OEM",
+      "definition": "Original Equipment Manufacturer"
+    },
+    {
+      "term": "Outbound",
+      "definition": "Leaving a facility"
+    },
+    {
+      "term": "PM",
+      "definition": "Preventive Maintenance"
+    },
+    {
+      "term": "PM A/B/C",
+      "definition": "Fleet-specific preventive maintenance levels"
+    },
+    {
+      "term": "POD",
+      "definition": "Proof of Delivery"
+    },
+    {
+      "term": "Pre-trip",
+      "definition": "Inspection before operation"
+    },
+    {
+      "term": "PU",
+      "definition": "Pickup"
+    },
+    {
+      "term": "Reefer",
+      "definition": "Refrigerated trailer or its refrigeration unit"
+    },
+    {
+      "term": "RO",
+      "definition": "Repair Order"
+    },
+    {
+      "term": "Road call",
+      "definition": "Service dispatched to vehicle away from shop"
+    },
+    {
+      "term": "SCR",
+      "definition": "Selective Catalytic Reduction"
+    },
+    {
+      "term": "Steer axle",
+      "definition": "Axle used for steering"
+    },
+    {
+      "term": "Tandem",
+      "definition": "Two axles grouped together"
+    },
+    {
+      "term": "TMS",
+      "definition": "Transportation Management System"
+    },
+    {
+      "term": "Unit number",
+      "definition": "Internal fleet equipment ID"
+    },
+    {
+      "term": "VIN",
+      "definition": "Vehicle Identification Number"
+    },
+    {
+      "term": "WO",
+      "definition": "Work Order"
+    }
+  ]
+}
