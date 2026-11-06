@@ -12,6 +12,8 @@ count=0
 for lesson in data['lessons']:
  assert len(lesson['notes'])==len(lesson['visualNotes']),lesson['id']
  assert lesson['referenceImage'] in known
+ assert lesson['overviewImage'] in known
+ assert lesson['overviewAlt']
  assert lesson['referenceAlt']
  for note in lesson['visualNotes']:
   assert note['title'] and note['text'] and note['alt']

@@ -174,7 +174,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-2.png",
-      "referenceAlt": "Original illustration embedded on PDF page 2: Truck Anatomy. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 2: Truck Anatomy. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-1-overview.svg",
+      "overviewAlt": "Truck Anatomy: illustrated overview with 6 labeled concept diagrams."
     },
     {
       "id": "lesson-2",
@@ -258,7 +260,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-3.png",
-      "referenceAlt": "Original illustration embedded on PDF page 3: Engine & Cooling. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 3: Engine & Cooling. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-2-overview.svg",
+      "overviewAlt": "Engine & Cooling: illustrated overview with 6 labeled concept diagrams."
     },
     {
       "id": "lesson-3",
@@ -342,7 +346,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-4.png",
-      "referenceAlt": "Original illustration embedded on PDF page 4: Emissions & Electrical. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 4: Emissions & Electrical. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-3-overview.svg",
+      "overviewAlt": "Emissions & Electrical: illustrated overview with 6 labeled concept diagrams."
     },
     {
       "id": "lesson-4",
@@ -438,7 +444,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-5.png",
-      "referenceAlt": "Original illustration embedded on PDF page 5: Air Brakes. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 5: Air Brakes. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-4-overview.svg",
+      "overviewAlt": "Air Brakes: illustrated overview with 7 labeled concept diagrams."
     },
     {
       "id": "lesson-5",
@@ -534,7 +542,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-6.png",
-      "referenceAlt": "Original illustration embedded on PDF page 6: Suspension & Axles. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 6: Suspension & Axles. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-5-overview.svg",
+      "overviewAlt": "Suspension & Axles: illustrated overview with 7 labeled concept diagrams."
     },
     {
       "id": "lesson-6",
@@ -618,7 +628,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-7.png",
-      "referenceAlt": "Original illustration embedded on PDF page 7: Tires By Position. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 7: Tires By Position. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-6-overview.svg",
+      "overviewAlt": "Tires By Position: illustrated overview with 6 labeled concept diagrams."
     },
     {
       "id": "lesson-7",
@@ -714,7 +726,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-8.png",
-      "referenceAlt": "Original illustration embedded on PDF page 8: Tire Wear Patterns. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 8: Tire Wear Patterns. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-7-overview.svg",
+      "overviewAlt": "Tire Wear Patterns: illustrated overview with 7 labeled concept diagrams."
     },
     {
       "id": "lesson-8",
@@ -798,7 +812,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-9.png",
-      "referenceAlt": "Original illustration embedded on PDF page 9: Trailer Types. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 9: Trailer Types. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-8-overview.svg",
+      "overviewAlt": "Trailer Types: illustrated overview with 6 labeled concept diagrams."
     },
     {
       "id": "lesson-9",
@@ -882,7 +898,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-10.png",
-      "referenceAlt": "Original illustration embedded on PDF page 10: Coupling System. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 10: Coupling System. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-9-overview.svg",
+      "overviewAlt": "Coupling System: illustrated overview with 6 labeled concept diagrams."
     },
     {
       "id": "lesson-10",
@@ -966,7 +984,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-11.png",
-      "referenceAlt": "Original illustration embedded on PDF page 11: Reefer Systems. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 11: Reefer Systems. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-10-overview.svg",
+      "overviewAlt": "Reefer Systems: illustrated overview with 6 labeled concept diagrams."
     },
     {
       "id": "lesson-11",
@@ -1062,7 +1082,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-12.png",
-      "referenceAlt": "Original illustration embedded on PDF page 12: DOT & FMCSA. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 12: DOT & FMCSA. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-11-overview.svg",
+      "overviewAlt": "DOT & FMCSA: illustrated overview with 7 labeled concept diagrams."
     },
     {
       "id": "lesson-12",
@@ -1158,7 +1180,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-13.png",
-      "referenceAlt": "Original illustration embedded on PDF page 13: Inspection Priorities. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 13: Inspection Priorities. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-12-overview.svg",
+      "overviewAlt": "Inspection Priorities: illustrated overview with 7 labeled concept diagrams."
     },
     {
       "id": "lesson-13",
@@ -1254,7 +1278,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-14.png",
-      "referenceAlt": "Original illustration embedded on PDF page 14: Fault Codes & Lamps. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 14: Fault Codes & Lamps. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-13-overview.svg",
+      "overviewAlt": "Fault Codes & Lamps: illustrated overview with 7 labeled concept diagrams."
     },
     {
       "id": "lesson-14",
@@ -1350,7 +1376,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-15.png",
-      "referenceAlt": "Original illustration embedded on PDF page 15: Driver Intake. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 15: Driver Intake. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-14-overview.svg",
+      "overviewAlt": "Driver Intake: illustrated overview with 7 labeled concept diagrams."
     },
     {
       "id": "lesson-15",
@@ -1446,7 +1474,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-16.png",
-      "referenceAlt": "Original illustration embedded on PDF page 16: Breakdown Workflow. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 16: Breakdown Workflow. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-15-overview.svg",
+      "overviewAlt": "Breakdown Workflow: illustrated overview with 7 labeled concept diagrams."
     },
     {
       "id": "lesson-16",
@@ -1542,7 +1572,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-17.png",
-      "referenceAlt": "Original illustration embedded on PDF page 17: PM & Work Orders. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 17: PM & Work Orders. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-16-overview.svg",
+      "overviewAlt": "PM & Work Orders: illustrated overview with 7 labeled concept diagrams."
     },
     {
       "id": "lesson-17",
@@ -1638,7 +1670,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-18.png",
-      "referenceAlt": "Original illustration embedded on PDF page 18: Vendors, Costs & KPIs. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 18: Vendors, Costs & KPIs. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-17-overview.svg",
+      "overviewAlt": "Vendors, Costs & KPIs: illustrated overview with 7 labeled concept diagrams."
     },
     {
       "id": "lesson-18",
@@ -1710,7 +1744,9 @@
         }
       ],
       "referenceImage": "assets/lessons/pdf-page-19.png",
-      "referenceAlt": "Original illustration embedded on PDF page 19: Real-World Scenarios. Supplied artwork with unverified embedded labels."
+      "referenceAlt": "Original illustration embedded on PDF page 19: Real-World Scenarios. Supplied artwork with unverified embedded labels.",
+      "overviewImage": "assets/lessons/lesson-18-overview.svg",
+      "overviewAlt": "Real-World Scenarios: illustrated overview with 5 labeled concept diagrams."
     }
   ],
   "glossary": [

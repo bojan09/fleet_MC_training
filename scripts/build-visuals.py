@@ -319,3 +319,24 @@ for i,g in enumerate(data['glossary'],1):
  manifest.append(dict(file=filename,source='Original SVG concept illustration based on PDF glossary, pages 20–22',type='Original conceptual diagram',rights='Created for this project',review='Simplified educational association',alt=g['alt']))
 (root/'data/content.json').write_text(json.dumps(data,indent=2))
 (root/'assets/manifest.json').write_text(json.dumps(manifest,indent=2))
+
+# Crisp overview sheets keep all annotations as real vector shapes and text.
+import re
+for lesson in data['lessons']:
+ notes=lesson['visualNotes'];rows=(len(notes)+1)//2
+ width=1220;height=126+rows*315
+ parts=[f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc"><title id="title">{html.escape(lesson["title"])} — illustrated overview</title><desc id="desc">Labeled conceptual illustrations for every topic in this lesson. Simplified educational diagrams, not service drawings.</desc><rect width="100%" height="100%" fill="#f7f8f4"/><rect width="1220" height="92" fill="#163b32"/><text x="30" y="35" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#d7f49a">FLEET MC TRAINING · ILLUSTRATED FIELD GUIDE</text><text x="30" y="71" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="white">{html.escape(lesson["title"])}</text>']
+ for n,note in enumerate(notes):
+  x=25+(n%2)*600;y=116+(n//2)*315
+  drawing=(root/note['image']).read_text()
+  inner=re.sub(r'^<svg[^>]*>','',drawing).removesuffix('</svg>')
+  inner=re.sub(r'<title.*?</title>|<desc.*?</desc>','',inner)
+  parts.append(f'<g transform="translate({x} {y})"><text x="10" y="21" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#23473f">{n+1:02}. {html.escape(note["title"])}</text><g transform="translate(0 32)">{inner}</g></g>')
+ parts.append('</svg>')
+ filename=f'assets/lessons/{lesson["id"]}-overview.svg'
+ (root/filename).write_text(''.join(parts))
+ lesson['overviewImage']=filename
+ lesson['overviewAlt']=f'{lesson["title"]}: illustrated overview with {len(notes)} labeled concept diagrams.'
+ manifest.append(dict(file=filename,source=f'Original vector overview based on lesson text, PDF page {lesson["page"]}',type='Original conceptual diagram',rights='Created for this project',review='Simplified concept illustrations, not service anatomy',alt=lesson['overviewAlt']))
+(root/'data/content.json').write_text(json.dumps(data,indent=2))
+(root/'assets/manifest.json').write_text(json.dumps(manifest,indent=2))
